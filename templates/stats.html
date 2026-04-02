@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% set active = "stats" %}
+{% block title %}Stats{% endblock %}
+
+{% block content %}
+<div style="margin-top: 20px;">
+    <h1 style="font-size: 1.4rem; color: var(--primary); margin-bottom: 20px;">Your Stats</h1>
+
+    <div class="streak-bar">
+        <div class="streak-item">
+            <div class="number">{{ stats.current_streak or 0 }}</div>
+            <div class="label">Current Streak</div>
+        </div>
+        <div class="streak-item">
+            <div class="number">{{ stats.longest_streak or 0 }}</div>
+            <div class="label">Best Streak</div>
+        </div>
+    </div>
+
+    <div class="stats-grid">
+        <div class="stat-card">
+            <div class="number">{{ stats.total_read or 0 }}</div>
+            <div class="label">Papers Read</div>
+        </div>
+        <div class="stat-card">
+            <div class="number">{{ stats.total_fully_noted or 0 }}</div>
+            <div class="label">Fully Noted</div>
+        </div>
+        <div class="stat-card">
+            <div class="number">{{ weekly or 0 }}</div>
+            <div class="label">This Week</div>
+        </div>
+        <div class="stat-card">
+            <div class="number">{{ total_papers or 0 }}</div>
+            <div class="label">Total in Library</div>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2 style="font-size: 1.1rem; margin-bottom: 12px;">How Streaks Work</h2>
+        <ul style="color: var(--muted); font-size: 0.9rem; padding-left: 20px;">
+            <li>Only weekdays (Mon&ndash;Fri) count toward your streak</li>
+            <li>Mark at least one paper as "Read" or "Fully Noted" to score a day</li>
+            <li>Miss a weekday and your streak resets</li>
+            <li>Weekends don't break your streak</li>
+        </ul>
+    </div>
+</div>
+{% endblock %}

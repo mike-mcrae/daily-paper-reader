@@ -1,0 +1,4012 @@
+[
+  {
+    "title": "A Monetary History of the United States, 1867-1960",
+    "authors": "Milton Friedman, Anna Schwartz",
+    "year": 1963,
+    "source": "NBER",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 25000,
+    "url": ""
+  },
+  {
+    "title": "The Role of Monetary Policy",
+    "authors": "Milton Friedman",
+    "year": 1968,
+    "source": "AER",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 15000,
+    "url": ""
+  },
+  {
+    "title": "Rational Expectations and the Theory of Price Movements",
+    "authors": "John F. Muth",
+    "year": 1961,
+    "source": "Econometrica",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 12000,
+    "url": ""
+  },
+  {
+    "title": "Time to Build and Aggregate Fluctuations",
+    "authors": "Finn Kydland, Edward Prescott",
+    "year": 1982,
+    "source": "Econometrica",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "Rules Rather than Discretion: The Inconsistency of Optimal Plans",
+    "authors": "Finn Kydland, Edward Prescott",
+    "year": 1977,
+    "source": "JPE",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 9000,
+    "url": ""
+  },
+  {
+    "title": "The Optimum Quantity of Money",
+    "authors": "Milton Friedman",
+    "year": 1969,
+    "source": "AER",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "A Contribution to the Theory of Economic Growth",
+    "authors": "Robert Solow",
+    "year": 1956,
+    "source": "QJE",
+    "field": "Growth",
+    "type": "classic",
+    "citation_proxy": 28000,
+    "url": ""
+  },
+  {
+    "title": "Increasing Returns and Long-Run Growth",
+    "authors": "Paul Romer",
+    "year": 1986,
+    "source": "JPE",
+    "field": "Growth",
+    "type": "classic",
+    "citation_proxy": 20000,
+    "url": ""
+  },
+  {
+    "title": "Endogenous Technological Change",
+    "authors": "Paul Romer",
+    "year": 1990,
+    "source": "JPE",
+    "field": "Growth",
+    "type": "classic",
+    "citation_proxy": 18000,
+    "url": ""
+  },
+  {
+    "title": "A Theory of Optimum Currency Areas",
+    "authors": "Robert Mundell",
+    "year": 1961,
+    "source": "AER",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "The Financial Accelerator in a Quantitative Business Cycle Framework",
+    "authors": "Ben Bernanke, Mark Gertler, Simon Gilchrist",
+    "year": 1999,
+    "source": "NBER",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 9000,
+    "url": ""
+  },
+  {
+    "title": "Nominal Rigidities and the Dynamic Effects of a Shock to Monetary Policy",
+    "authors": "Lawrence Christiano, Martin Eichenbaum, Charles Evans",
+    "year": 2005,
+    "source": "JPE",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 8500,
+    "url": ""
+  },
+  {
+    "title": "Staggered Prices in a Utility-Maximizing Framework",
+    "authors": "Guillermo Calvo",
+    "year": 1983,
+    "source": "Journal of Monetary Economics",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 12000,
+    "url": ""
+  },
+  {
+    "title": "The Science of Monetary Policy: A New Keynesian Perspective",
+    "authors": "Richard Clarida, Jordi Gali, Mark Gertler",
+    "year": 1999,
+    "source": "Journal of Economic Literature",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 7000,
+    "url": ""
+  },
+  {
+    "title": "The Market for Lemons: Quality Uncertainty and the Market Mechanism",
+    "authors": "George Akerlof",
+    "year": 1970,
+    "source": "QJE",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 30000,
+    "url": ""
+  },
+  {
+    "title": "Job Market Signaling",
+    "authors": "Michael Spence",
+    "year": 1973,
+    "source": "QJE",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 18000,
+    "url": ""
+  },
+  {
+    "title": "Equilibrium in Competitive Insurance Markets",
+    "authors": "Michael Rothschild, Joseph Stiglitz",
+    "year": 1976,
+    "source": "QJE",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 12000,
+    "url": ""
+  },
+  {
+    "title": "The Problem of Social Cost",
+    "authors": "Ronald Coase",
+    "year": 1960,
+    "source": "Journal of Law and Economics",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 25000,
+    "url": ""
+  },
+  {
+    "title": "Production, Information Costs, and Economic Organization",
+    "authors": "Armen Alchian, Harold Demsetz",
+    "year": 1972,
+    "source": "AER",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 14000,
+    "url": ""
+  },
+  {
+    "title": "A Theory of Auctions and Competitive Bidding",
+    "authors": "Paul Milgrom, Robert Weber",
+    "year": 1982,
+    "source": "Econometrica",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania",
+    "authors": "David Card, Alan Krueger",
+    "year": 1994,
+    "source": "AER",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 12000,
+    "url": ""
+  },
+  {
+    "title": "The Impact of the Mariel Boatlift on the Miami Labor Market",
+    "authors": "David Card",
+    "year": 1990,
+    "source": "Industrial and Labor Relations Review",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Human Capital: A Theoretical and Empirical Analysis",
+    "authors": "Gary Becker",
+    "year": 1964,
+    "source": "NBER",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 30000,
+    "url": ""
+  },
+  {
+    "title": "Earnings Functions, Rates of Return and the Treatment of Schooling as an Investment",
+    "authors": "Jacob Mincer",
+    "year": 1974,
+    "source": "NBER",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 15000,
+    "url": ""
+  },
+  {
+    "title": "Does Compulsory School Attendance Affect Schooling and Earnings?",
+    "authors": "Joshua Angrist, Alan Krueger",
+    "year": 1991,
+    "source": "QJE",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 7000,
+    "url": ""
+  },
+  {
+    "title": "Changes in the Wage Structure and Earnings Inequality",
+    "authors": "Lawrence Katz, Kevin Murphy",
+    "year": 1992,
+    "source": "QJE",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 6000,
+    "url": ""
+  },
+  {
+    "title": "The Economics of Discrimination",
+    "authors": "Gary Becker",
+    "year": 1957,
+    "source": "University of Chicago Press",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 15000,
+    "url": ""
+  },
+  {
+    "title": "Wage Inequality and the Rise in Returns to Skill",
+    "authors": "Chinhui Juhn, Kevin Murphy, Brooks Pierce",
+    "year": 1993,
+    "source": "JPE",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Labor Supply and the Economic Recovery Act of 1981",
+    "authors": "Jerry Hausman, James Poterba",
+    "year": 1987,
+    "source": "NBER",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 3500,
+    "url": ""
+  },
+  {
+    "title": "Oligopoly and the Theory of Games",
+    "authors": "James Friedman",
+    "year": 1977,
+    "source": "AER",
+    "field": "IO",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Entry, Exit, and Firm Dynamics in Long Run Equilibrium",
+    "authors": "Hugo Hopenhayn",
+    "year": 1992,
+    "source": "Econometrica",
+    "field": "IO",
+    "type": "classic",
+    "citation_proxy": 5500,
+    "url": ""
+  },
+  {
+    "title": "Measuring Market Power in the Ready-to-Eat Cereal Industry",
+    "authors": "Aviv Nevo",
+    "year": 2001,
+    "source": "Econometrica",
+    "field": "IO",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Automobile Prices in Market Equilibrium",
+    "authors": "Steven Berry, James Levinsohn, Ariel Pakes",
+    "year": 1995,
+    "source": "Econometrica",
+    "field": "IO",
+    "type": "classic",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "Estimating Discrete-Choice Models of Product Differentiation",
+    "authors": "Steven Berry",
+    "year": 1994,
+    "source": "RAND Journal of Economics",
+    "field": "IO",
+    "type": "classic",
+    "citation_proxy": 6000,
+    "url": ""
+  },
+  {
+    "title": "Markov-Perfect Industry Dynamics: A Framework for Empirical Work",
+    "authors": "Richard Ericson, Ariel Pakes",
+    "year": 1995,
+    "source": "REStud",
+    "field": "IO",
+    "type": "classic",
+    "citation_proxy": 4500,
+    "url": ""
+  },
+  {
+    "title": "The Dynamics of Productivity in the Telecommunications Equipment Industry",
+    "authors": "G. Steven Olley, Ariel Pakes",
+    "year": 1996,
+    "source": "Econometrica",
+    "field": "IO",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Increasing Returns, Monopolistic Competition, and International Trade",
+    "authors": "Paul Krugman",
+    "year": 1979,
+    "source": "Journal of International Economics",
+    "field": "Trade",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "Scale Economies, Product Differentiation, and the Pattern of Trade",
+    "authors": "Paul Krugman",
+    "year": 1980,
+    "source": "AER",
+    "field": "Trade",
+    "type": "classic",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "The Gravity Model of International Trade: A User Guide",
+    "authors": "Keith Head, Thierry Mayer",
+    "year": 2014,
+    "source": "CEPR",
+    "field": "Trade",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Comparative Advantage and International Trade and Investment",
+    "authors": "Elhanan Helpman, Paul Krugman",
+    "year": 1985,
+    "source": "MIT Press",
+    "field": "Trade",
+    "type": "classic",
+    "citation_proxy": 7000,
+    "url": ""
+  },
+  {
+    "title": "The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity",
+    "authors": "Marc Melitz",
+    "year": 2003,
+    "source": "Econometrica",
+    "field": "Trade",
+    "type": "classic",
+    "citation_proxy": 9000,
+    "url": ""
+  },
+  {
+    "title": "Firms in International Trade",
+    "authors": "Andrew Bernard, J. Bradford Jensen, Stephen Redding, Peter Schott",
+    "year": 2007,
+    "source": "Journal of Economic Perspectives",
+    "field": "Trade",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Economic Growth in a Cross Section of Countries",
+    "authors": "Robert Barro",
+    "year": 1991,
+    "source": "QJE",
+    "field": "Development",
+    "type": "classic",
+    "citation_proxy": 20000,
+    "url": ""
+  },
+  {
+    "title": "A Contribution to the Empirics of Economic Growth",
+    "authors": "N. Gregory Mankiw, David Romer, David Weil",
+    "year": 1992,
+    "source": "QJE",
+    "field": "Growth",
+    "type": "classic",
+    "citation_proxy": 18000,
+    "url": ""
+  },
+  {
+    "title": "The Colonial Origins of Comparative Development: An Empirical Investigation",
+    "authors": "Daron Acemoglu, Simon Johnson, James Robinson",
+    "year": 2001,
+    "source": "AER",
+    "field": "Development",
+    "type": "classic",
+    "citation_proxy": 12000,
+    "url": ""
+  },
+  {
+    "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution",
+    "authors": "Daron Acemoglu, Simon Johnson, James Robinson",
+    "year": 2002,
+    "source": "QJE",
+    "field": "Development",
+    "type": "classic",
+    "citation_proxy": 6000,
+    "url": ""
+  },
+  {
+    "title": "The Elusive Quest for Growth",
+    "authors": "William Easterly",
+    "year": 2001,
+    "source": "MIT Press",
+    "field": "Development",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Institutions as a Fundamental Cause of Long-Run Growth",
+    "authors": "Daron Acemoglu, Simon Johnson, James Robinson",
+    "year": 2005,
+    "source": "NBER",
+    "field": "Development",
+    "type": "classic",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "Prospect Theory: An Analysis of Decision under Risk",
+    "authors": "Daniel Kahneman, Amos Tversky",
+    "year": 1979,
+    "source": "Econometrica",
+    "field": "Behavioural",
+    "type": "classic",
+    "citation_proxy": 30000,
+    "url": ""
+  },
+  {
+    "title": "Anomalies: The Endowment Effect, Loss Aversion, and Status Quo Bias",
+    "authors": "Daniel Kahneman, Jack Knetsch, Richard Thaler",
+    "year": 1991,
+    "source": "Journal of Economic Perspectives",
+    "field": "Behavioural",
+    "type": "classic",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "Doing More with Less: Student Debt and Behavioral Economics",
+    "authors": "Richard Thaler, Cass Sunstein",
+    "year": 2003,
+    "source": "AER",
+    "field": "Behavioural",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Mental Accounting Matters",
+    "authors": "Richard Thaler",
+    "year": 1999,
+    "source": "Journal of Behavioral Decision Making",
+    "field": "Behavioural",
+    "type": "classic",
+    "citation_proxy": 6000,
+    "url": ""
+  },
+  {
+    "title": "A Theory of Fairness, Competition, and Cooperation",
+    "authors": "Ernst Fehr, Klaus Schmidt",
+    "year": 1999,
+    "source": "QJE",
+    "field": "Behavioural",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "Advances in Behavioral Economics",
+    "authors": "Colin Camerer, George Loewenstein, Matthew Rabin",
+    "year": 2004,
+    "source": "Princeton University Press",
+    "field": "Behavioural",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "The Theory of Public Finance",
+    "authors": "Richard Musgrave",
+    "year": 1959,
+    "source": "McGraw-Hill",
+    "field": "Public Finance",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "An Expenditure Tax",
+    "authors": "Nicholas Kaldor",
+    "year": 1955,
+    "source": "Allen & Unwin",
+    "field": "Public Finance",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Optimal Taxation and Public Production",
+    "authors": "Peter Diamond, James Mirrlees",
+    "year": 1971,
+    "source": "AER",
+    "field": "Public Finance",
+    "type": "classic",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "Using Elasticities to Derive Optimal Income Tax Rates",
+    "authors": "Emmanuel Saez",
+    "year": 2001,
+    "source": "REStud",
+    "field": "Public Finance",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Taxation and the Cost of Capital: A Correction",
+    "authors": "Merton Miller, Franco Modigliani",
+    "year": 1963,
+    "source": "AER",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 12000,
+    "url": ""
+  },
+  {
+    "title": "Efficient Capital Markets: A Review of Theory and Empirical Work",
+    "authors": "Eugene Fama",
+    "year": 1970,
+    "source": "Journal of Finance",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 20000,
+    "url": ""
+  },
+  {
+    "title": "The Pricing of Options and Corporate Liabilities",
+    "authors": "Fischer Black, Myron Scholes",
+    "year": 1973,
+    "source": "JPE",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 25000,
+    "url": ""
+  },
+  {
+    "title": "On the Pricing of Corporate Debt: The Risk Structure of Interest Rates",
+    "authors": "Robert Merton",
+    "year": 1974,
+    "source": "Journal of Finance",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "The Cost of Capital, Corporation Finance and the Theory of Investment",
+    "authors": "Franco Modigliani, Merton Miller",
+    "year": 1958,
+    "source": "AER",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 22000,
+    "url": ""
+  },
+  {
+    "title": "The Cross-Section of Expected Stock Returns",
+    "authors": "Eugene Fama, Kenneth French",
+    "year": 1992,
+    "source": "Journal of Finance",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 15000,
+    "url": ""
+  },
+  {
+    "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure",
+    "authors": "Michael Jensen, William Meckling",
+    "year": 1976,
+    "source": "Journal of Financial Economics",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 20000,
+    "url": ""
+  },
+  {
+    "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+    "authors": "Daron Acemoglu, James Robinson",
+    "year": 2012,
+    "source": "Crown Publishers",
+    "field": "Political Economy",
+    "type": "classic",
+    "citation_proxy": 15000,
+    "url": ""
+  },
+  {
+    "title": "An Economic Theory of Political Action in a Democracy",
+    "authors": "Anthony Downs",
+    "year": 1957,
+    "source": "JPE",
+    "field": "Political Economy",
+    "type": "classic",
+    "citation_proxy": 12000,
+    "url": ""
+  },
+  {
+    "title": "The Logic of Collective Action",
+    "authors": "Mancur Olson",
+    "year": 1965,
+    "source": "Harvard University Press",
+    "field": "Political Economy",
+    "type": "classic",
+    "citation_proxy": 15000,
+    "url": ""
+  },
+  {
+    "title": "Toward a Political Economy of Development",
+    "authors": "Timothy Besley, Torsten Persson",
+    "year": 2009,
+    "source": "AER",
+    "field": "Political Economy",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Political Economics and Public Finance",
+    "authors": "Torsten Persson, Guido Tabellini",
+    "year": 2002,
+    "source": "NBER",
+    "field": "Political Economy",
+    "type": "classic",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Identification of Causal Effects Using Instrumental Variables",
+    "authors": "Joshua Angrist, Guido Imbens, Donald Rubin",
+    "year": 1996,
+    "source": "Journal of the American Statistical Association",
+    "field": "Econometrics",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "Estimating the Return to Schooling: Progress on Some Persistent Econometric Problems",
+    "authors": "David Card",
+    "year": 2001,
+    "source": "Econometrica",
+    "field": "Econometrics",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Sample Selection Bias as a Specification Error",
+    "authors": "James Heckman",
+    "year": 1979,
+    "source": "Econometrica",
+    "field": "Econometrics",
+    "type": "classic",
+    "citation_proxy": 25000,
+    "url": ""
+  },
+  {
+    "title": "The Central Role of the Propensity Score in Observational Studies for Causal Effects",
+    "authors": "Paul Rosenbaum, Donald Rubin",
+    "year": 1983,
+    "source": "Biometrika",
+    "field": "Econometrics",
+    "type": "classic",
+    "citation_proxy": 18000,
+    "url": ""
+  },
+  {
+    "title": "Generalized Method of Moments Specification Testing",
+    "authors": "Lars Peter Hansen",
+    "year": 1982,
+    "source": "Econometrica",
+    "field": "Econometrics",
+    "type": "classic",
+    "citation_proxy": 15000,
+    "url": ""
+  },
+  {
+    "title": "A Heteroskedasticity-Consistent Covariance Matrix Estimator",
+    "authors": "Halbert White",
+    "year": 1980,
+    "source": "Econometrica",
+    "field": "Econometrics",
+    "type": "classic",
+    "citation_proxy": 20000,
+    "url": ""
+  },
+  {
+    "title": "Regression Discontinuity Designs: A Guide to Practice",
+    "authors": "Guido Imbens, Thomas Lemieux",
+    "year": 2008,
+    "source": "Journal of Econometrics",
+    "field": "Econometrics",
+    "type": "classic",
+    "citation_proxy": 6000,
+    "url": ""
+  },
+  {
+    "title": "Mostly Harmless Econometrics: An Empiricist's Companion",
+    "authors": "Joshua Angrist, Jorn-Steffen Pischke",
+    "year": 2009,
+    "source": "Princeton University Press",
+    "field": "Econometrics",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "The Oregon Health Insurance Experiment",
+    "authors": "Amy Finkelstein, Sarah Taubman, Bill Wright, Mira Bernstein, Jonathan Gruber, Joseph Newhouse, Heidi Allen, Katherine Baicker",
+    "year": 2012,
+    "source": "QJE",
+    "field": "Health",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Moral Hazard and Consumer Incentives in Health Care",
+    "authors": "Mark Pauly",
+    "year": 1968,
+    "source": "AER",
+    "field": "Health",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Uncertainty and the Welfare Economics of Medical Care",
+    "authors": "Kenneth Arrow",
+    "year": 1963,
+    "source": "AER",
+    "field": "Health",
+    "type": "classic",
+    "citation_proxy": 12000,
+    "url": ""
+  },
+  {
+    "title": "Competition and Custom in Economic Contracts: A Case Study of Illinois Coal",
+    "authors": "Victor Goldberg",
+    "year": 1976,
+    "source": "Journal of Law and Economics",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "The Tragedy of the Commons",
+    "authors": "Garrett Hardin",
+    "year": 1968,
+    "source": "Science",
+    "field": "Environmental",
+    "type": "classic",
+    "citation_proxy": 30000,
+    "url": ""
+  },
+  {
+    "title": "Markets for Technology and their Implications for Corporate Strategy",
+    "authors": "Ashish Arora, Andrea Fosfuri, Alfonso Gambardella",
+    "year": 2001,
+    "source": "Industrial and Corporate Change",
+    "field": "IO",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "The Social Cost of Carbon",
+    "authors": "William Nordhaus",
+    "year": 2017,
+    "source": "AER",
+    "field": "Environmental",
+    "type": "classic",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "An Essay on the Principle of Population",
+    "authors": "Thomas Malthus",
+    "year": 1798,
+    "source": "Classic",
+    "field": "Economic History",
+    "type": "classic",
+    "citation_proxy": 20000,
+    "url": ""
+  },
+  {
+    "title": "The Great Divergence: China, Europe, and the Making of the Modern World Economy",
+    "authors": "Kenneth Pomeranz",
+    "year": 2000,
+    "source": "Princeton University Press",
+    "field": "Economic History",
+    "type": "classic",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+    "authors": "Jared Diamond",
+    "year": 1997,
+    "source": "W.W. Norton",
+    "field": "Economic History",
+    "type": "classic",
+    "citation_proxy": 20000,
+    "url": ""
+  },
+  {
+    "title": "The Rise and Fall of American Growth",
+    "authors": "Robert Gordon",
+    "year": 2016,
+    "source": "Princeton University Press",
+    "field": "Economic History",
+    "type": "classic",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Monopoly and Competition in Large-Scale Economies",
+    "authors": "Edward Chamberlin",
+    "year": 1933,
+    "source": "Harvard University Press",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "The General Theory of Employment, Interest and Money",
+    "authors": "John Maynard Keynes",
+    "year": 1936,
+    "source": "Macmillan",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 30000,
+    "url": ""
+  },
+  {
+    "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+    "authors": "Adam Smith",
+    "year": 1776,
+    "source": "Classic",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 30000,
+    "url": ""
+  },
+  {
+    "title": "The Use of Knowledge in Society",
+    "authors": "Friedrich Hayek",
+    "year": 1945,
+    "source": "AER",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 15000,
+    "url": ""
+  },
+  {
+    "title": "Equilibrium Points in N-Person Games",
+    "authors": "John Nash",
+    "year": 1950,
+    "source": "Proceedings of the National Academy of Sciences",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 20000,
+    "url": ""
+  },
+  {
+    "title": "Non-Cooperative Games",
+    "authors": "John Nash",
+    "year": 1951,
+    "source": "Annals of Mathematics",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "The Nature of the Firm",
+    "authors": "Ronald Coase",
+    "year": 1937,
+    "source": "Economica",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 20000,
+    "url": ""
+  },
+  {
+    "title": "The Economics of Information",
+    "authors": "George Stigler",
+    "year": 1961,
+    "source": "JPE",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "An Exploration in the Theory of Optimum Income Taxation",
+    "authors": "James Mirrlees",
+    "year": 1971,
+    "source": "REStud",
+    "field": "Public Finance",
+    "type": "classic",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "On the Impossibility of Informationally Efficient Markets",
+    "authors": "Sanford Grossman, Joseph Stiglitz",
+    "year": 1980,
+    "source": "AER",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "Credit Rationing in Markets with Imperfect Information",
+    "authors": "Joseph Stiglitz, Andrew Weiss",
+    "year": 1981,
+    "source": "AER",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "Capital Asset Prices: A Theory of Market Equilibrium",
+    "authors": "William Sharpe",
+    "year": 1964,
+    "source": "Journal of Finance",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 18000,
+    "url": ""
+  },
+  {
+    "title": "Portfolio Selection",
+    "authors": "Harry Markowitz",
+    "year": 1952,
+    "source": "Journal of Finance",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 15000,
+    "url": ""
+  },
+  {
+    "title": "A Pure Theory of Local Expenditures",
+    "authors": "Charles Tiebout",
+    "year": 1956,
+    "source": "JPE",
+    "field": "Public Finance",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "Social Choice and Individual Values",
+    "authors": "Kenneth Arrow",
+    "year": 1951,
+    "source": "Wiley",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 15000,
+    "url": ""
+  },
+  {
+    "title": "Risk, Uncertainty and Profit",
+    "authors": "Frank Knight",
+    "year": 1921,
+    "source": "Houghton Mifflin",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 12000,
+    "url": ""
+  },
+  {
+    "title": "Tax Incidence in a Two-Sector Growing Economy",
+    "authors": "Arnold Harberger",
+    "year": 1962,
+    "source": "JPE",
+    "field": "Public Finance",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "The Economic Approach to Human Behavior",
+    "authors": "Gary Becker",
+    "year": 1976,
+    "source": "University of Chicago Press",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 12000,
+    "url": ""
+  },
+  {
+    "title": "Consumption",
+    "authors": "Angus Deaton",
+    "year": 1992,
+    "source": "Oxford University Press",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "The Theory of Interest",
+    "authors": "Irving Fisher",
+    "year": 1930,
+    "source": "Macmillan",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "An Almost Ideal Demand System",
+    "authors": "Angus Deaton, John Muellbauer",
+    "year": 1980,
+    "source": "AER",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "Myopic Loss Aversion and the Equity Premium Puzzle",
+    "authors": "Shlomo Benartzi, Richard Thaler",
+    "year": 1995,
+    "source": "QJE",
+    "field": "Behavioural",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Anomalies: The Winner's Curse",
+    "authors": "Richard Thaler",
+    "year": 1988,
+    "source": "Journal of Economic Perspectives",
+    "field": "Behavioural",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Golden Eggs and Hyperbolic Discounting",
+    "authors": "David Laibson",
+    "year": 1997,
+    "source": "QJE",
+    "field": "Behavioural",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Lifetime Earnings, Labor Market Conditions, and Economic Opportunity",
+    "authors": "Gary Becker, Barry Chiswick",
+    "year": 1966,
+    "source": "JPE",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Technology, Education, and the Composition of the Labor Force",
+    "authors": "Claudia Goldin, Lawrence Katz",
+    "year": 2008,
+    "source": "AER",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 3500,
+    "url": ""
+  },
+  {
+    "title": "The Race between Education and Technology",
+    "authors": "Claudia Goldin, Lawrence Katz",
+    "year": 2008,
+    "source": "Harvard University Press",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Economic Backwardness in Historical Perspective",
+    "authors": "Alexander Gerschenkron",
+    "year": 1962,
+    "source": "Harvard University Press",
+    "field": "Economic History",
+    "type": "classic",
+    "citation_proxy": 7000,
+    "url": ""
+  },
+  {
+    "title": "The Leverage Cycle",
+    "authors": "John Geanakoplos",
+    "year": 2010,
+    "source": "NBER",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Debt, Deleveraging, and the Liquidity Trap",
+    "authors": "Gauti Eggertsson, Paul Krugman",
+    "year": 2012,
+    "source": "QJE",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Market Size, Trade, and Productivity",
+    "authors": "Marc Melitz, Gianmarco Ottaviano",
+    "year": 2008,
+    "source": "REStud",
+    "field": "Trade",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Income Distribution and Macroeconomics",
+    "authors": "Oded Galor, Joseph Zeira",
+    "year": 1993,
+    "source": "REStud",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 4500,
+    "url": ""
+  },
+  {
+    "title": "Industrial Structure and the Nature of Innovative Activity",
+    "authors": "Wesley Cohen, Richard Levin",
+    "year": 1989,
+    "source": "Brookings Papers",
+    "field": "IO",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "R&D Spillovers and the Geography of Innovation and Production",
+    "authors": "Adam Jaffe, Manuel Trajtenberg, Rebecca Henderson",
+    "year": 1993,
+    "source": "QJE",
+    "field": "IO",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade",
+    "authors": "David Autor, David Dorn, Gordon Hanson",
+    "year": 2016,
+    "source": "AER",
+    "field": "Trade",
+    "type": "modern",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "The China Syndrome: Local Labor Market Effects of Import Competition in the United States",
+    "authors": "David Autor, David Dorn, Gordon Hanson",
+    "year": 2013,
+    "source": "AER",
+    "field": "Trade",
+    "type": "modern",
+    "citation_proxy": 4500,
+    "url": ""
+  },
+  {
+    "title": "Top Incomes in the Long Run of History",
+    "authors": "Anthony Atkinson, Thomas Piketty, Emmanuel Saez",
+    "year": 2011,
+    "source": "Journal of Economic Literature",
+    "field": "Public Finance",
+    "type": "modern",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Inequality in the 21st Century: Introducing the Knowledge",
+    "authors": "Thomas Piketty",
+    "year": 2014,
+    "source": "Harvard University Press",
+    "field": "Public Finance",
+    "type": "modern",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "The Rate of Return on Everything, 1870-2015",
+    "authors": "Oscar Jorda, Katharina Knoll, Dmitry Kuvshinov, Moritz Schularick, Alan Taylor",
+    "year": 2019,
+    "source": "QJE",
+    "field": "Finance",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Measuring the Gains from Trade under Monopolistic Competition",
+    "authors": "Robert Feenstra",
+    "year": 2018,
+    "source": "AER",
+    "field": "Trade",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "The Allocation of Talent and U.S. Economic Growth",
+    "authors": "Chang-Tai Hsieh, Erik Hurst, Charles Jones, Peter Klenow",
+    "year": 2019,
+    "source": "Econometrica",
+    "field": "Growth",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Misallocation and Manufacturing TFP in China and India",
+    "authors": "Chang-Tai Hsieh, Peter Klenow",
+    "year": 2009,
+    "source": "QJE",
+    "field": "Development",
+    "type": "modern",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Growing Like China",
+    "authors": "Zheng Song, Kjetil Storesletten, Fabrizio Zilibotti",
+    "year": 2011,
+    "source": "AER",
+    "field": "Development",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "What Do We Learn from the Weather? The New Climate-Economy Literature",
+    "authors": "Melissa Dell, Benjamin Jones, Benjamin Olken",
+    "year": 2014,
+    "source": "Journal of Economic Literature",
+    "field": "Environmental",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Temperature Shocks and Economic Growth",
+    "authors": "Melissa Dell, Benjamin Jones, Benjamin Olken",
+    "year": 2012,
+    "source": "AEJ: Macroeconomics",
+    "field": "Environmental",
+    "type": "modern",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "The Long-Term Effects of Africa's Slave Trades",
+    "authors": "Nathan Nunn",
+    "year": 2008,
+    "source": "QJE",
+    "field": "Economic History",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Ruggedness: The Blessing of Bad Geography in Africa",
+    "authors": "Nathan Nunn, Diego Puga",
+    "year": 2012,
+    "source": "REStud",
+    "field": "Development",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "The Persistent Effects of Peru's Mining Mita",
+    "authors": "Melissa Dell",
+    "year": 2010,
+    "source": "Econometrica",
+    "field": "Economic History",
+    "type": "modern",
+    "citation_proxy": 2500,
+    "url": ""
+  },
+  {
+    "title": "Networks in Conflict: Theory and Evidence from the Great War of Africa",
+    "authors": "Michael Koenig, Dominic Rohner, Mathias Thoenig, Fabrizio Zilibotti",
+    "year": 2017,
+    "source": "Econometrica",
+    "field": "Political Economy",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Corruption, Trade Costs, and Gains from Tariff Liberalization",
+    "authors": "Sandra Sequeira, Simeon Djankov",
+    "year": 2014,
+    "source": "AER",
+    "field": "Trade",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Tax Farming Redux: Experimental Evidence on Performance Pay for Tax Collectors",
+    "authors": "Adnan Khan, Asim Khwaja, Benjamin Olken",
+    "year": 2016,
+    "source": "QJE",
+    "field": "Public Finance",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "The Effects of Rent Control Expansion on Tenants, Landlords, and Inequality",
+    "authors": "Rebecca Diamond, Timothy McQuade, Franklin Qian",
+    "year": 2019,
+    "source": "AER",
+    "field": "Public Finance",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "Who Becomes an Inventor in America? The Importance of Exposure to Innovation",
+    "authors": "Alex Bell, Raj Chetty, Xavier Jaravel, Neviana Petkova, John Van Reenen",
+    "year": 2019,
+    "source": "QJE",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "The Impacts of Neighborhoods on Intergenerational Mobility",
+    "authors": "Raj Chetty, Nathaniel Hendren",
+    "year": 2018,
+    "source": "QJE",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States",
+    "authors": "Raj Chetty, Nathaniel Hendren, Patrick Kline, Emmanuel Saez",
+    "year": 2014,
+    "source": "QJE",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Is the United States Still a Land of Opportunity?",
+    "authors": "Raj Chetty, Nathaniel Hendren, Patrick Kline, Emmanuel Saez, Nicholas Turner",
+    "year": 2014,
+    "source": "AER",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "The Fading American Dream: Trends in Absolute Income Mobility Since 1940",
+    "authors": "Raj Chetty, David Grusky, Maximilian Hell, Nathaniel Hendren, Robert Manduca, Jimmy Narang",
+    "year": 2017,
+    "source": "Science",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Teacher Quality and Student Achievement",
+    "authors": "Raj Chetty, John Friedman, Jonah Rockoff",
+    "year": 2014,
+    "source": "AER",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 2500,
+    "url": ""
+  },
+  {
+    "title": "Income Segregation and Intergenerational Mobility Across Colleges in the United States",
+    "authors": "Raj Chetty, John Friedman, Emmanuel Saez, Nicholas Turner, Danny Yagan",
+    "year": 2020,
+    "source": "QJE",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Bartik Instruments: What, When, Why, and How",
+    "authors": "Paul Goldsmith-Pinkham, Isaac Sorkin, Henry Swift",
+    "year": 2020,
+    "source": "AER",
+    "field": "Econometrics",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Difference-in-Differences with Variation in Treatment Timing",
+    "authors": "Andrew Goodman-Bacon",
+    "year": 2021,
+    "source": "Econometrica",
+    "field": "Econometrics",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Design-Based Analysis in Difference-In-Differences Settings with Staggered Adoption",
+    "authors": "Jonathan Roth, Pedro Sant'Anna",
+    "year": 2023,
+    "source": "Econometrica",
+    "field": "Econometrics",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "Synthetic Control Methods for Comparative Case Studies",
+    "authors": "Alberto Abadie, Alexis Diamond, Jens Hainmueller",
+    "year": 2010,
+    "source": "Journal of the American Statistical Association",
+    "field": "Econometrics",
+    "type": "modern",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Robust Standard Errors in Small Samples",
+    "authors": "Rustam Ibragimov, Ulrich Mueller",
+    "year": 2010,
+    "source": "Review of Economics and Statistics",
+    "field": "Econometrics",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "Double/Debiased Machine Learning for Treatment and Structural Parameters",
+    "authors": "Victor Chernozhukov, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, Whitney Newey, James Robins",
+    "year": 2018,
+    "source": "Econometrics Journal",
+    "field": "Econometrics",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Machine Learning Methods That Economists Should Know About",
+    "authors": "Susan Athey, Guido Imbens",
+    "year": 2019,
+    "source": "Annual Review of Economics",
+    "field": "Econometrics",
+    "type": "modern",
+    "citation_proxy": 2500,
+    "url": ""
+  },
+  {
+    "title": "Recursive Partitioning for Heterogeneous Causal Effects",
+    "authors": "Susan Athey, Guido Imbens",
+    "year": 2016,
+    "source": "Proceedings of the National Academy of Sciences",
+    "field": "Econometrics",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "The State of New Keynesian Economics: A Partial Assessment",
+    "authors": "Jordi Gali",
+    "year": 2018,
+    "source": "Journal of Economic Perspectives",
+    "field": "Macroeconomics",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "House of Debt: How They (and You) Caused the Great Recession",
+    "authors": "Atif Mian, Amir Sufi",
+    "year": 2014,
+    "source": "University of Chicago Press",
+    "field": "Finance",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "What Explains the 2007-2009 Drop in Employment?",
+    "authors": "Atif Mian, Amir Sufi",
+    "year": 2014,
+    "source": "Econometrica",
+    "field": "Macroeconomics",
+    "type": "modern",
+    "citation_proxy": 2500,
+    "url": ""
+  },
+  {
+    "title": "Quantitative Spatial Economics",
+    "authors": "Stephen Redding, Esteban Rossi-Hansberg",
+    "year": 2017,
+    "source": "Annual Review of Economics",
+    "field": "Trade",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "The Elusive Pro-Competitive Effects of Trade",
+    "authors": "Costas Arkolakis, Arnaud Costinot, Dave Donaldson, Andres Rodriguez-Clare",
+    "year": 2019,
+    "source": "REStud",
+    "field": "Trade",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Railroads of the Raj: Estimating the Impact of Transportation Infrastructure",
+    "authors": "Dave Donaldson",
+    "year": 2018,
+    "source": "AER",
+    "field": "Trade",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "New Trade Models, Same Old Gains?",
+    "authors": "Costas Arkolakis, Arnaud Costinot, Andres Rodriguez-Clare",
+    "year": 2012,
+    "source": "AER",
+    "field": "Trade",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Robots and Jobs: Evidence from US Labor Markets",
+    "authors": "Daron Acemoglu, Pascual Restrepo",
+    "year": 2020,
+    "source": "JPE",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Automation and New Tasks: How Technology Displaces and Reinstates Labor",
+    "authors": "Daron Acemoglu, Pascual Restrepo",
+    "year": 2019,
+    "source": "Journal of Economic Perspectives",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 2500,
+    "url": ""
+  },
+  {
+    "title": "The Rise of the Machines: Automation, Horizontal Innovation, and Income Inequality",
+    "authors": "David Hemous, Morten Olsen",
+    "year": 2022,
+    "source": "AEJ: Macroeconomics",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "People versus Machines: The Impact of Minimum Wages on Automatable Jobs",
+    "authors": "Grace Lordan, David Neumark",
+    "year": 2018,
+    "source": "Labour Economics",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "The Gender Gap in Top Corporate Jobs",
+    "authors": "Marianne Bertrand, Claudia Goldin, Lawrence Katz",
+    "year": 2010,
+    "source": "AEJ: Applied Economics",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "A Grand Gender Convergence: Its Last Chapter",
+    "authors": "Claudia Goldin",
+    "year": 2014,
+    "source": "AER",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Monetary Policy with Interest on Reserves",
+    "authors": "John Cochrane",
+    "year": 2014,
+    "source": "Journal of Economic Dynamics and Control",
+    "field": "Macroeconomics",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "The Macroeconomic Effects of Tax Changes",
+    "authors": "Christina Romer, David Romer",
+    "year": 2010,
+    "source": "AER",
+    "field": "Macroeconomics",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Fiscal Multipliers in Recession and Expansion",
+    "authors": "Alan Auerbach, Yuriy Gorodnichenko",
+    "year": 2012,
+    "source": "AEJ: Economic Policy",
+    "field": "Macroeconomics",
+    "type": "modern",
+    "citation_proxy": 2500,
+    "url": ""
+  },
+  {
+    "title": "Measuring the Output Responses to Fiscal Policy",
+    "authors": "Alan Auerbach, Yuriy Gorodnichenko",
+    "year": 2012,
+    "source": "AEJ: Economic Policy",
+    "field": "Public Finance",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Social Norms and Energy Conservation",
+    "authors": "Hunt Allcott",
+    "year": 2011,
+    "source": "Journal of Public Economics",
+    "field": "Behavioural",
+    "type": "modern",
+    "citation_proxy": 2500,
+    "url": ""
+  },
+  {
+    "title": "The Behavioralist Goes to School: Leveraging Behavioral Economics to Improve Educational Performance",
+    "authors": "Steven Levitt, John List, Susanne Neckermann, Sally Sadoff",
+    "year": 2016,
+    "source": "AEJ: Economic Policy",
+    "field": "Behavioural",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Nudge: Improving Decisions About Health, Wealth, and Happiness",
+    "authors": "Richard Thaler, Cass Sunstein",
+    "year": 2008,
+    "source": "Yale University Press",
+    "field": "Behavioural",
+    "type": "modern",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "authors": "Daniel Kahneman",
+    "year": 2011,
+    "source": "Farrar, Straus and Giroux",
+    "field": "Behavioural",
+    "type": "modern",
+    "citation_proxy": 15000,
+    "url": ""
+  },
+  {
+    "title": "Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity",
+    "authors": "Daron Acemoglu, Simon Johnson",
+    "year": 2023,
+    "source": "PublicAffairs",
+    "field": "Political Economy",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "The Effects of Immigration on the Labor Market Outcomes of Less-skilled Natives",
+    "authors": "George Borjas",
+    "year": 2003,
+    "source": "JPE",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Immigration and Inequality",
+    "authors": "David Card",
+    "year": 2009,
+    "source": "AER",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "State-Dependent Effects of Monetary Policy",
+    "authors": "Silvana Tenreyro, Gregory Thwaites",
+    "year": 2016,
+    "source": "AEJ: Macroeconomics",
+    "field": "Macroeconomics",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "The Macroeconomics of Time Allocation",
+    "authors": "Mark Aguiar, Erik Hurst",
+    "year": 2007,
+    "source": "NBER",
+    "field": "Macroeconomics",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "Income and Wealth Inequality: Evidence and Policy Implications",
+    "authors": "Emmanuel Saez",
+    "year": 2017,
+    "source": "AER",
+    "field": "Public Finance",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "How Elastic are Preferences for Redistribution? Evidence from Randomized Survey Experiments",
+    "authors": "Ilyana Kuziemko, Michael Norton, Emmanuel Saez, Stefanie Stantcheva",
+    "year": 2015,
+    "source": "AER",
+    "field": "Public Finance",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "The Health Effects of Medicare for the Near-Elderly Uninsured",
+    "authors": "David Card, Carlos Dobkin, Nicole Maestas",
+    "year": 2009,
+    "source": "AER",
+    "field": "Health",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "The Value of Life Near Its End and Terminal Care",
+    "authors": "Amy Finkelstein, Matthew Gentzkow, Heidi Williams",
+    "year": 2019,
+    "source": "AER",
+    "field": "Health",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Mortality Risk, Insurance, and the Value of Life",
+    "authors": "Daniel Bauer, Darius Lakdawalla, Julian Reif",
+    "year": 2018,
+    "source": "NBER",
+    "field": "Health",
+    "type": "modern",
+    "citation_proxy": 800,
+    "url": ""
+  },
+  {
+    "title": "What Are the Costs of Markups?",
+    "authors": "Chris Edmond, Virgiliu Midrigan, Daniel Xu",
+    "year": 2023,
+    "source": "JPE",
+    "field": "IO",
+    "type": "modern",
+    "citation_proxy": 800,
+    "url": ""
+  },
+  {
+    "title": "The Rise of Market Power and the Macroeconomic Implications",
+    "authors": "Jan De Loecker, Jan Eeckhout, Gabriel Unger",
+    "year": 2020,
+    "source": "QJE",
+    "field": "IO",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Markups and Firm-Level Export Status",
+    "authors": "Jan De Loecker, Frederic Warzynski",
+    "year": 2012,
+    "source": "AER",
+    "field": "IO",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Platform Competition in Two-Sided Markets",
+    "authors": "Jean-Charles Rochet, Jean Tirole",
+    "year": 2003,
+    "source": "Journal of the European Economic Association",
+    "field": "IO",
+    "type": "modern",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Microstructure Noise, Realized Variance, and Optimal Sampling",
+    "authors": "Federico Bandi, Jeffrey Russell",
+    "year": 2008,
+    "source": "REStud",
+    "field": "Finance",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Long-Run Effects of Dynamically Assigned Treatments",
+    "authors": "Vasilis Syrgkanis, Victor Chernozhukov",
+    "year": 2024,
+    "source": "NBER",
+    "field": "Econometrics",
+    "type": "working",
+    "citation_proxy": 200,
+    "url": ""
+  },
+  {
+    "title": "The Impact of Artificial Intelligence on the Labor Market",
+    "authors": "Daron Acemoglu",
+    "year": 2024,
+    "source": "NBER",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "Harms of AI",
+    "authors": "Daron Acemoglu",
+    "year": 2024,
+    "source": "NBER",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "AI and Economic Growth",
+    "authors": "Philippe Aghion, Benjamin Jones, Charles Jones",
+    "year": 2023,
+    "source": "NBER",
+    "field": "Growth",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "The Macroeconomics of Epidemics",
+    "authors": "Martin Eichenbaum, Sergio Rebelo, Mathias Trabandt",
+    "year": 2021,
+    "source": "NBER",
+    "field": "Macroeconomics",
+    "type": "working",
+    "citation_proxy": 800,
+    "url": ""
+  },
+  {
+    "title": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+    "authors": "Vasco Carvalho, Makoto Nirei, Yukiko Saito, Alireza Tahbaz-Salehi",
+    "year": 2021,
+    "source": "NBER",
+    "field": "Macroeconomics",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "Inflation Expectations and Consumer Spending",
+    "authors": "Yuriy Gorodnichenko, Dimitriy Sergeyev",
+    "year": 2021,
+    "source": "NBER",
+    "field": "Macroeconomics",
+    "type": "working",
+    "citation_proxy": 400,
+    "url": ""
+  },
+  {
+    "title": "The Geography of Consumption",
+    "authors": "Jesse Shapiro, Matthew Gentzkow",
+    "year": 2019,
+    "source": "NBER",
+    "field": "Microeconomics",
+    "type": "working",
+    "citation_proxy": 600,
+    "url": ""
+  },
+  {
+    "title": "Place-Based Redistribution",
+    "authors": "Cecile Gaubert, Patrick Kline, Danny Yagan",
+    "year": 2021,
+    "source": "NBER",
+    "field": "Public Finance",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "Optimal Minimum Wage Policy",
+    "authors": "David Lee, Emmanuel Saez",
+    "year": 2021,
+    "source": "NBER",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 600,
+    "url": ""
+  },
+  {
+    "title": "The Rise of Remote Work",
+    "authors": "Jose Maria Barrero, Nicholas Bloom, Steven Davis",
+    "year": 2023,
+    "source": "NBER",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 800,
+    "url": ""
+  },
+  {
+    "title": "Why Working from Home Will Stick",
+    "authors": "Jose Maria Barrero, Nicholas Bloom, Steven Davis",
+    "year": 2021,
+    "source": "NBER",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Firm-Level Risk Exposures and Stock Returns in the Wake of COVID-19",
+    "authors": "Hassan Afrouzi, Andres Drenik, Ryan Kim",
+    "year": 2021,
+    "source": "NBER",
+    "field": "Finance",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "Climate Change and Long-Run Discount Rates",
+    "authors": "Stefano Giglio, Matteo Maggiori, Krishna Rao, Johannes Stroebel, Andreas Weber",
+    "year": 2021,
+    "source": "NBER",
+    "field": "Environmental",
+    "type": "working",
+    "citation_proxy": 400,
+    "url": ""
+  },
+  {
+    "title": "Carbon Taxes and CO2 Emissions: Sweden as a Case Study",
+    "authors": "Julius Andersson",
+    "year": 2019,
+    "source": "NBER",
+    "field": "Environmental",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "The Economic Consequences of Being Denied an Abortion",
+    "authors": "Sarah Miller, Laura Wherry, Diana Greene Foster",
+    "year": 2022,
+    "source": "NBER",
+    "field": "Health",
+    "type": "working",
+    "citation_proxy": 400,
+    "url": ""
+  },
+  {
+    "title": "Selection on Moral Hazard in Health Insurance",
+    "authors": "Liran Einav, Amy Finkelstein, Stephen Ryan, Paul Schrimpf, Mark Cullen",
+    "year": 2013,
+    "source": "NBER",
+    "field": "Health",
+    "type": "working",
+    "citation_proxy": 600,
+    "url": ""
+  },
+  {
+    "title": "Industrial Policy in the Global Semiconductor Sector",
+    "authors": "Maitreesh Ghatak, Timothy Besley",
+    "year": 2023,
+    "source": "CEPR",
+    "field": "IO",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "Strategic Trade Policy with Heterogeneous Firms",
+    "authors": "James Brander, Barbara Spencer",
+    "year": 2021,
+    "source": "CEPR",
+    "field": "Trade",
+    "type": "working",
+    "citation_proxy": 400,
+    "url": ""
+  },
+  {
+    "title": "Central Bank Digital Currency and the Future of Monetary Policy",
+    "authors": "Michael Bordo, Andrew Levin",
+    "year": 2023,
+    "source": "NBER",
+    "field": "Macroeconomics",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "Fiscal Rules and Fiscal Councils: Recent Trends and Performance during the COVID-19 Pandemic",
+    "authors": "Xavier Debrun, Jonathan Ostry",
+    "year": 2022,
+    "source": "CEPR",
+    "field": "Public Finance",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "The Political Economy of Immigration Enforcement",
+    "authors": "Elira Kuka, Na'ama Shenhav, Kevin Shih",
+    "year": 2023,
+    "source": "NBER",
+    "field": "Political Economy",
+    "type": "working",
+    "citation_proxy": 200,
+    "url": ""
+  },
+  {
+    "title": "Who Profits from Patents? Rent-Sharing at Innovative Firms",
+    "authors": "Patrick Kline, Neviana Petkova, Heidi Williams, Owen Zidar",
+    "year": 2019,
+    "source": "NBER",
+    "field": "IO",
+    "type": "working",
+    "citation_proxy": 800,
+    "url": ""
+  },
+  {
+    "title": "Pricing and Market Structure in a New Sector: Electric Vehicles",
+    "authors": "James Sallee, Sarah West, Wei Fan",
+    "year": 2023,
+    "source": "NBER",
+    "field": "IO",
+    "type": "working",
+    "citation_proxy": 200,
+    "url": ""
+  },
+  {
+    "title": "The Economic Impact of Social Media",
+    "authors": "Hunt Allcott, Luca Braghieri, Sarah Eichmeyer, Matthew Gentzkow",
+    "year": 2020,
+    "source": "NBER",
+    "field": "Behavioural",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "The Welfare Effects of Social Media",
+    "authors": "Hunt Allcott, Luca Braghieri, Sarah Eichmeyer, Matthew Gentzkow",
+    "year": 2020,
+    "source": "AER",
+    "field": "Behavioural",
+    "type": "working",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Optimal Taxation of Top Labor Incomes: A Tale of Three Elasticities",
+    "authors": "Thomas Piketty, Emmanuel Saez, Stefanie Stantcheva",
+    "year": 2014,
+    "source": "AEJ: Economic Policy",
+    "field": "Public Finance",
+    "type": "working",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Wealth Taxation: Lessons from History and Recent Developments",
+    "authors": "Florian Scheuer, Joel Slemrod",
+    "year": 2020,
+    "source": "NBER",
+    "field": "Public Finance",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "The Effect of Government Spending on GDP: New Evidence from a Large Panel",
+    "authors": "Nadeem Ilzetzki, Enrique Mendoza, Carlos Vegh",
+    "year": 2013,
+    "source": "NBER",
+    "field": "Macroeconomics",
+    "type": "working",
+    "citation_proxy": 600,
+    "url": ""
+  },
+  {
+    "title": "A Unified Approach to Measuring p",
+    "authors": "Isaiah Andrews, Jesse Shapiro, Maximilian Kasy",
+    "year": 2019,
+    "source": "NBER",
+    "field": "Econometrics",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "The Role of Beliefs in Driving Gender Gaps",
+    "authors": "Katherine Coffman, Muriel Niederle, Alvin Roth",
+    "year": 2021,
+    "source": "NBER",
+    "field": "Behavioural",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "The Micro and Macro of Disappearing Routine Jobs",
+    "authors": "Guido Menzio, Shouyong Shi",
+    "year": 2023,
+    "source": "NBER",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 200,
+    "url": ""
+  },
+  {
+    "title": "Superstar Firms and Cities",
+    "authors": "David Autor, David Dorn, Lawrence Katz, Christina Patterson, John Van Reenen",
+    "year": 2020,
+    "source": "NBER",
+    "field": "IO",
+    "type": "working",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Demographics and Automation",
+    "authors": "Daron Acemoglu, Pascual Restrepo",
+    "year": 2022,
+    "source": "REStud",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 700,
+    "url": ""
+  },
+  {
+    "title": "The Effects of Income Transparency on Well-Being",
+    "authors": "Ricardo Perez-Truglia",
+    "year": 2020,
+    "source": "NBER",
+    "field": "Behavioural",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "Measuring Technology with Patent Data",
+    "authors": "Adam Jaffe, Gaetan de Rassenfosse",
+    "year": 2019,
+    "source": "NBER",
+    "field": "IO",
+    "type": "working",
+    "citation_proxy": 400,
+    "url": ""
+  },
+  {
+    "title": "Trade Policy Uncertainty and Its Effect on Foreign Direct Investment",
+    "authors": "Kyle Handley, Nuno Limao",
+    "year": 2022,
+    "source": "NBER",
+    "field": "Trade",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "The International Transmission of Monetary Policy",
+    "authors": "Silvia Miranda-Agrippino, Helene Rey",
+    "year": 2020,
+    "source": "CEPR",
+    "field": "Macroeconomics",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "The Housing Wealth Effect: The Crucial Role of Expectations",
+    "authors": "Atif Mian, Kamalesh Rao, Amir Sufi",
+    "year": 2013,
+    "source": "NBER",
+    "field": "Finance",
+    "type": "working",
+    "citation_proxy": 400,
+    "url": ""
+  },
+  {
+    "title": "Zoning and the Economic Geography of Cities",
+    "authors": "Gilles Duranton, Diego Puga",
+    "year": 2023,
+    "source": "CEPR",
+    "field": "Development",
+    "type": "working",
+    "citation_proxy": 200,
+    "url": ""
+  },
+  {
+    "title": "Financial Fragility with Small Adverse Selection",
+    "authors": "Nathan Hendren",
+    "year": 2014,
+    "source": "NBER",
+    "field": "Finance",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "Firm Selection and Corporate Cash Holdings",
+    "authors": "Manuel Adelino, Yan-Leung Cheung, Daniel Wolfenzon",
+    "year": 2020,
+    "source": "NBER",
+    "field": "Finance",
+    "type": "working",
+    "citation_proxy": 200,
+    "url": ""
+  },
+  {
+    "title": "The Effect of Minimum Wages on Low-Wage Jobs",
+    "authors": "Doruk Cengiz, Arindrajit Dube, Attila Lindner, Ben Zipperer",
+    "year": 2019,
+    "source": "QJE",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Digital Addiction",
+    "authors": "Hunt Allcott, Matthew Gentzkow, Lena Song",
+    "year": 2022,
+    "source": "NBER",
+    "field": "Behavioural",
+    "type": "working",
+    "citation_proxy": 400,
+    "url": ""
+  },
+  {
+    "title": "The Macroeconomic Consequences of Tariffs",
+    "authors": "Davide Furceri, Swarnali Hannan, Jonathan Ostry, Andrew Rose",
+    "year": 2020,
+    "source": "NBER",
+    "field": "Trade",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "The Gift of Moving: Intergenerational Consequences of a Mobility Shock",
+    "authors": "Emi Nakamura, Josef Sigurdsson, Jon Steinsson",
+    "year": 2022,
+    "source": "REStud",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 800,
+    "url": ""
+  },
+  {
+    "title": "The Missing Profits of Nations",
+    "authors": "Thomas Torslov, Ludvig Wier, Gabriel Zucman",
+    "year": 2022,
+    "source": "REStud",
+    "field": "Public Finance",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "Global Profit Shifting, 1975-2019",
+    "authors": "Ludvig Wier, Gabriel Zucman",
+    "year": 2022,
+    "source": "NBER",
+    "field": "Public Finance",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "Tax Evasion and Inequality",
+    "authors": "Annette Alstadsaeter, Niels Johannesen, Gabriel Zucman",
+    "year": 2019,
+    "source": "AER",
+    "field": "Public Finance",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Capitalism Without Capital",
+    "authors": "Jonathan Haskel, Stian Westlake",
+    "year": 2018,
+    "source": "Princeton University Press",
+    "field": "Growth",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "The Productivity Puzzle: A Closer Look at the United States",
+    "authors": "David Byrne, John Fernald, Marshall Reinsdorf",
+    "year": 2016,
+    "source": "NBER",
+    "field": "Growth",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "Are Ideas Getting Harder to Find?",
+    "authors": "Nicholas Bloom, Charles Jones, John Van Reenen, Michael Webb",
+    "year": 2020,
+    "source": "AER",
+    "field": "Growth",
+    "type": "modern",
+    "citation_proxy": 2500,
+    "url": ""
+  },
+  {
+    "title": "The Declining Labor Share of Income",
+    "authors": "Michael Elsby, Bart Hobijn, Aysegul Sahin",
+    "year": 2013,
+    "source": "Brookings Papers",
+    "field": "Macroeconomics",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "A Theory of Falling Growth and Rising Rents",
+    "authors": "Philippe Aghion, Antonin Bergeaud, Timo Boppart, Peter Klenow, Huiyu Li",
+    "year": 2023,
+    "source": "REStud",
+    "field": "Growth",
+    "type": "modern",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "On the Measurement of Zipf's Law",
+    "authors": "Moshe Levy",
+    "year": 2009,
+    "source": "Journal of Financial Economics",
+    "field": "Finance",
+    "type": "modern",
+    "citation_proxy": 800,
+    "url": ""
+  },
+  {
+    "title": "Banks as Secret Keepers",
+    "authors": "Tri Vi Dang, Gary Gorton, Bengt Holmstrom, Guillermo Ordonez",
+    "year": 2017,
+    "source": "AER",
+    "field": "Finance",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "The Global Decline of the Labor Share",
+    "authors": "Loukas Karabarbounis, Brent Neiman",
+    "year": 2014,
+    "source": "QJE",
+    "field": "Macroeconomics",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Secular Stagnation? The Effect of Aging on Economic Growth in the Age of Automation",
+    "authors": "Daron Acemoglu, Pascual Restrepo",
+    "year": 2017,
+    "source": "AER",
+    "field": "Growth",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "How Do Patents Affect Follow-On Innovation? Evidence from the Human Genome",
+    "authors": "Bhaven Sampat, Heidi Williams",
+    "year": 2019,
+    "source": "AER",
+    "field": "IO",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Intellectual Property Rights and Innovation: Evidence from Health Care Markets",
+    "authors": "Heidi Williams",
+    "year": 2013,
+    "source": "JPE",
+    "field": "IO",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "The Effects of Competition on Consumer Choice and Market Structure",
+    "authors": "Mitsuru Igami",
+    "year": 2017,
+    "source": "JPE",
+    "field": "IO",
+    "type": "modern",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "Moral Incentives in Credit Card Debt Repayment",
+    "authors": "Leonardo Bursztyn, Stefano Fiorin, Daniel Gottlieb, Martin Kanz",
+    "year": 2019,
+    "source": "JPE",
+    "field": "Behavioural",
+    "type": "modern",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "The Economic Effects of Climate Change",
+    "authors": "Richard Tol",
+    "year": 2009,
+    "source": "Journal of Economic Perspectives",
+    "field": "Environmental",
+    "type": "modern",
+    "citation_proxy": 3000,
+    "url": ""
+  },
+  {
+    "title": "Environmental Regulations and Innovation",
+    "authors": "Antoine Dechezlepretre, Misato Sato",
+    "year": 2017,
+    "source": "REStud",
+    "field": "Environmental",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Climate Econometrics",
+    "authors": "Solomon Hsiang",
+    "year": 2016,
+    "source": "Annual Review of Resource Economics",
+    "field": "Environmental",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "Selection Stories: Understanding Movement Across Health Plans",
+    "authors": "Jonathan Gruber, Robin McKnight",
+    "year": 2016,
+    "source": "QJE",
+    "field": "Health",
+    "type": "modern",
+    "citation_proxy": 800,
+    "url": ""
+  },
+  {
+    "title": "Pharmaceutical Innovation and the Burden of Disease",
+    "authors": "Daron Acemoglu, Joshua Linn",
+    "year": 2004,
+    "source": "QJE",
+    "field": "Health",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "What Good is Wealth Without Health?",
+    "authors": "Angus Deaton",
+    "year": 2003,
+    "source": "AER",
+    "field": "Health",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Democratic Capital: The Nexus of Political and Economic Change",
+    "authors": "Torsten Persson, Guido Tabellini",
+    "year": 2009,
+    "source": "AEJ: Macroeconomics",
+    "field": "Political Economy",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "Civil Conflict and Voting",
+    "authors": "Ana Maria Ibanez, Andrea Velasquez",
+    "year": 2021,
+    "source": "JPE",
+    "field": "Political Economy",
+    "type": "modern",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "Media Bias and Reputation",
+    "authors": "Matthew Gentzkow, Jesse Shapiro",
+    "year": 2006,
+    "source": "JPE",
+    "field": "Political Economy",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Television and Voter Turnout",
+    "authors": "Matthew Gentzkow",
+    "year": 2006,
+    "source": "QJE",
+    "field": "Political Economy",
+    "type": "modern",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "History and Economic Development in Latin America",
+    "authors": "Leopoldo Fergusson, James Robinson",
+    "year": 2022,
+    "source": "CEPR",
+    "field": "Economic History",
+    "type": "working",
+    "citation_proxy": 200,
+    "url": ""
+  },
+  {
+    "title": "The Agricultural Origins of Time Preference",
+    "authors": "Oded Galor, Omer Ozak",
+    "year": 2016,
+    "source": "AER",
+    "field": "Economic History",
+    "type": "modern",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "The Columbian Exchange: A History of Disease, Food, and Ideas",
+    "authors": "Nathan Nunn, Nancy Qian",
+    "year": 2010,
+    "source": "Journal of Economic Perspectives",
+    "field": "Economic History",
+    "type": "modern",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "The Economic Case for Global Vaccinations",
+    "authors": "Ruchir Agarwal, Gita Gopinath",
+    "year": 2022,
+    "source": "NBER",
+    "field": "Health",
+    "type": "working",
+    "citation_proxy": 400,
+    "url": ""
+  },
+  {
+    "title": "Racial Inequality in the 21st Century",
+    "authors": "Roland Fryer",
+    "year": 2011,
+    "source": "NBER",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 800,
+    "url": ""
+  },
+  {
+    "title": "Measuring Aggregate Price Indices with Taste Shocks",
+    "authors": "David Atkin, Benjamin Faber, Marco Gonzalez-Navarro",
+    "year": 2020,
+    "source": "QJE",
+    "field": "Trade",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "Globalization and Factor Price Equality",
+    "authors": "Arnaud Costinot, Dave Donaldson",
+    "year": 2016,
+    "source": "NBER",
+    "field": "Trade",
+    "type": "working",
+    "citation_proxy": 400,
+    "url": ""
+  },
+  {
+    "title": "The Mundell-Fleming Trilemma: Two Centuries of Evidence",
+    "authors": "Maurice Obstfeld, Jay Shambaugh, Alan Taylor",
+    "year": 2005,
+    "source": "NBER",
+    "field": "Macroeconomics",
+    "type": "working",
+    "citation_proxy": 800,
+    "url": ""
+  },
+  {
+    "title": "Breaking the Iron Rice Bowl: Evidence of Precautionary Savings from the Chinese State-Owned Enterprise Reform",
+    "authors": "Hui He, Feng Huang, Zheng Liu, Dongming Zhu",
+    "year": 2018,
+    "source": "NBER",
+    "field": "Development",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "Optimal Illiquidity",
+    "authors": "John Beshears, James Choi, Christopher Harris, David Laibson, Brigitte Madrian, Jung Sakong",
+    "year": 2020,
+    "source": "NBER",
+    "field": "Behavioural",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "Inequality and Aggregate Demand",
+    "authors": "Adrien Auclert, Matthew Rognlie",
+    "year": 2020,
+    "source": "NBER",
+    "field": "Macroeconomics",
+    "type": "working",
+    "citation_proxy": 600,
+    "url": ""
+  },
+  {
+    "title": "Monetary Policy in a HANK Economy",
+    "authors": "Adrien Auclert",
+    "year": 2019,
+    "source": "AER",
+    "field": "Macroeconomics",
+    "type": "working",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Universal Basic Income in the Developing World",
+    "authors": "Abhijit Banerjee, Paul Niehaus, Tavneet Suri",
+    "year": 2019,
+    "source": "NBER",
+    "field": "Development",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "Give Me Your Tired, Your Poor: Impact of a Large-Scale Amnesty on Illegal Immigrants",
+    "authors": "Giovanni Peri, Vasil Yasenov",
+    "year": 2019,
+    "source": "NBER",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "Monopsony in the U.S. Labor Market",
+    "authors": "Jose Azar, Ioana Marinescu, Marshall Steinbaum",
+    "year": 2022,
+    "source": "QJE",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 800,
+    "url": ""
+  },
+  {
+    "title": "Estimating Equilibrium Effects of Job Search Assistance",
+    "authors": "Pieter Gautier, Paul Muller, Bas van der Klaauw, Michael Rosholm, Michael Svarer",
+    "year": 2018,
+    "source": "Journal of Labor Economics",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 400,
+    "url": ""
+  },
+  {
+    "title": "The Fall of the Labor Share and the Rise of Superstar Firms",
+    "authors": "David Autor, David Dorn, Lawrence Katz, Christina Patterson, John Van Reenen",
+    "year": 2020,
+    "source": "QJE",
+    "field": "IO",
+    "type": "working",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Concentration in US Labor Markets: Evidence from Online Vacancy Data",
+    "authors": "Jose Azar, Ioana Marinescu, Marshall Steinbaum, Bledi Taska",
+    "year": 2020,
+    "source": "NBER",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 700,
+    "url": ""
+  },
+  {
+    "title": "How Much Does Immigration Boost Innovation?",
+    "authors": "Jennifer Hunt, Marjolaine Gauthier-Loiselle",
+    "year": 2010,
+    "source": "AEJ: Macroeconomics",
+    "field": "Labour",
+    "type": "working",
+    "citation_proxy": 800,
+    "url": ""
+  },
+  {
+    "title": "The Macroeconomic Effects of Trade Tariffs: Revisiting the Lerner Symmetry Result",
+    "authors": "Arnaud Costinot, Ivan Werning",
+    "year": 2019,
+    "source": "NBER",
+    "field": "Trade",
+    "type": "working",
+    "citation_proxy": 400,
+    "url": ""
+  },
+  {
+    "title": "Estimating Both Supply and Demand Elasticities Using Variation in a Single Tax Rate",
+    "authors": "Alexander Gelber, Damon Jones, Daniel Sacks",
+    "year": 2020,
+    "source": "NBER",
+    "field": "Public Finance",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "Tax Policy and Heterogeneous Investment Behavior",
+    "authors": "Eric Zwick, James Mahon",
+    "year": 2017,
+    "source": "AER",
+    "field": "Public Finance",
+    "type": "working",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Cryptocurrency, Taxes, and the Blockchain",
+    "authors": "Kathleen DeLaney Thomas",
+    "year": 2023,
+    "source": "NBER",
+    "field": "Public Finance",
+    "type": "working",
+    "citation_proxy": 200,
+    "url": ""
+  },
+  {
+    "title": "The COVID-19 Pandemic and the $16 Trillion Virus",
+    "authors": "David Cutler, Lawrence Summers",
+    "year": 2020,
+    "source": "NBER",
+    "field": "Health",
+    "type": "working",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "Equilibrium Effects of Food Labeling Policies",
+    "authors": "Michael Dinerstein, Liran Einav, Jonathan Levin, Neel Sundaresan",
+    "year": 2015,
+    "source": "NBER",
+    "field": "Health",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "Measuring and Bounding Experimenter Demand",
+    "authors": "Jonathan de Quidt, Johannes Haushofer, Christopher Roth",
+    "year": 2018,
+    "source": "NBER",
+    "field": "Econometrics",
+    "type": "working",
+    "citation_proxy": 500,
+    "url": ""
+  },
+  {
+    "title": "What Can We Learn from Euler Equation Estimation?",
+    "authors": "Orazio Attanasio, Hamish Low, Virginia Sanchez-Marcos",
+    "year": 2019,
+    "source": "CEPR",
+    "field": "Macroeconomics",
+    "type": "working",
+    "citation_proxy": 300,
+    "url": ""
+  },
+  {
+    "title": "Staggered Difference in Differences with an Application to Leading Indicators",
+    "authors": "Brantly Callaway, Pedro Sant'Anna",
+    "year": 2021,
+    "source": "Journal of Econometrics",
+    "field": "Econometrics",
+    "type": "working",
+    "citation_proxy": 1500,
+    "url": ""
+  },
+  {
+    "title": "Migration and Wage Effects of Taxing Top Earners",
+    "authors": "Henrik Kleven, Camille Landais, Mathilde Munoz, Stefanie Stantcheva",
+    "year": 2020,
+    "source": "QJE",
+    "field": "Public Finance",
+    "type": "working",
+    "citation_proxy": 1000,
+    "url": ""
+  },
+  {
+    "title": "The Missing Intercept: A Demand Equivalence Approach",
+    "authors": "John Grigsby, Erik Hurst, Ahu Yildirmaz",
+    "year": 2021,
+    "source": "NBER",
+    "field": "Macroeconomics",
+    "type": "working",
+    "citation_proxy": 400,
+    "url": ""
+  },
+  {
+    "title": "Rational Expectations, the Real Rate of Interest, and the Natural Rate of Unemployment",
+    "authors": "Thomas Sargent, Neil Wallace",
+    "year": 1975,
+    "source": "Brookings Papers",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 6000,
+    "url": ""
+  },
+  {
+    "title": "Economic Policy in the Presence of Coordination Problems",
+    "authors": "Russell Cooper, Andrew John",
+    "year": 1988,
+    "source": "QJE",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 3500,
+    "url": ""
+  },
+  {
+    "title": "International Trade and Income Differences",
+    "authors": "Michael Waugh",
+    "year": 2010,
+    "source": "AER",
+    "field": "Trade",
+    "type": "classic",
+    "citation_proxy": 2500,
+    "url": ""
+  },
+  {
+    "title": "The Prebisch-Singer Hypothesis: Theory and Evidence",
+    "authors": "Jose Antonio Ocampo, Mariangela Parra-Lancourt",
+    "year": 2010,
+    "source": "CEPR",
+    "field": "Trade",
+    "type": "classic",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Unpleasant Monetarist Arithmetic",
+    "authors": "Thomas Sargent, Neil Wallace",
+    "year": 1981,
+    "source": "Federal Reserve Bank of Minneapolis",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "The Tyranny of Numbers: Confronting the Statistical Realities of the East Asian Growth Experience",
+    "authors": "Alwyn Young",
+    "year": 1995,
+    "source": "QJE",
+    "field": "Growth",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Informational Asymmetries, Financial Structure, and Financial Intermediation",
+    "authors": "Hayne Leland, David Pyle",
+    "year": 1977,
+    "source": "Journal of Finance",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Crime and Punishment: An Economic Approach",
+    "authors": "Gary Becker",
+    "year": 1968,
+    "source": "JPE",
+    "field": "Microeconomics",
+    "type": "classic",
+    "citation_proxy": 15000,
+    "url": ""
+  },
+  {
+    "title": "Irrational Exuberance",
+    "authors": "Robert Shiller",
+    "year": 2000,
+    "source": "Princeton University Press",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 10000,
+    "url": ""
+  },
+  {
+    "title": "Does Education Really Help? Skill, Work, and Inequality",
+    "authors": "Howard Wial",
+    "year": 2006,
+    "source": "Oxford University Press",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 2000,
+    "url": ""
+  },
+  {
+    "title": "Corruption and Growth",
+    "authors": "Paolo Mauro",
+    "year": 1995,
+    "source": "QJE",
+    "field": "Development",
+    "type": "classic",
+    "citation_proxy": 6000,
+    "url": ""
+  },
+  {
+    "title": "A Sensitivity Analysis of Cross-Country Growth Regressions",
+    "authors": "Ross Levine, David Renelt",
+    "year": 1992,
+    "source": "AER",
+    "field": "Growth",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Financial Dependence and Growth",
+    "authors": "Raghuram Rajan, Luigi Zingales",
+    "year": 1998,
+    "source": "AER",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 8000,
+    "url": ""
+  },
+  {
+    "title": "Does Trade Cause Growth?",
+    "authors": "Jeffrey Frankel, David Romer",
+    "year": 1999,
+    "source": "AER",
+    "field": "Trade",
+    "type": "classic",
+    "citation_proxy": 5000,
+    "url": ""
+  },
+  {
+    "title": "Geography and Economic Development",
+    "authors": "John Gallup, Jeffrey Sachs, Andrew Mellinger",
+    "year": 1999,
+    "source": "International Regional Science Review",
+    "field": "Development",
+    "type": "classic",
+    "citation_proxy": 4000,
+    "url": ""
+  },
+  {
+    "title": "Moral Hazard vs Liquidity and Optimal Unemployment Insurance",
+    "authors": "Raj Chetty",
+    "year": 2008,
+    "source": "JPE",
+    "field": "Labour",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Neoclassical Revival in Growth Economics: Has It Gone Too Far?",
+    "authors": "Pete Klenow, Andres-Rodriguez-Clare",
+    "year": 1996,
+    "source": "",
+    "field": "Growth",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Quality Disclosure and Regulation: Scoring Design in Medicare Advantage",
+    "authors": "Benjamin Vatter",
+    "year": 2025,
+    "source": "Econometrica",
+    "field": "Health",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "A New Method of Estimating Risk Aversion",
+    "authors": "Raj Chetty",
+    "year": 2006,
+    "source": "AER",
+    "field": "Econometrics",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Common Ownership and Competition in the Ready-To-Eat Cereal Industry",
+    "authors": "Matthew Backus, Christopher Conlon, Michael Sinkinson",
+    "year": 2021,
+    "source": "Econometrica",
+    "field": "IO",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Can Industrial Policy Overcome Coordination Failures",
+    "authors": "Tishara Garg",
+    "year": 2025,
+    "source": "Working Paper",
+    "field": "General",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Entry and Competition in Concentrated Markets",
+    "authors": "Timothy Bresnahan, Peter Reiss",
+    "year": 1991,
+    "source": "JPE",
+    "field": "IO",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Machine Learning as a Tool for Hypothesis Generation",
+    "authors": "Jens Ludwig, Sendhil Mullainathan",
+    "year": 2024,
+    "source": "QJE",
+    "field": "Econometrics",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Economics of Density: Evidence from the Berlin Wall",
+    "authors": "Gabriel Ahlfeldt, Stephen Redding, Daniel Sturm, Nikolaus Wolf",
+    "year": 2015,
+    "source": "Econometrica",
+    "field": "Urban",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Peak-Hour Road Congestion Pricing: Experimental Evidence and Equilibrium Implications",
+    "authors": "Gabriel Kreindler",
+    "year": 2023,
+    "source": "Econometrica",
+    "field": "Urban",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Infrastructure Inequality: Who Bears the Cost of Road Roughness",
+    "authors": "Lindsey Currier, Edward Glaeser, Gabriel Kreindler",
+    "year": 2024,
+    "source": "Working Paper",
+    "field": "Urban",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Gangs, Labor Mobility, and Development",
+    "authors": "Nikita Melnikov, Carlos Schmidt-Padilla, Maria Micaela Sviatschi",
+    "year": 2025,
+    "source": "",
+    "field": "Development",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Optimal Urban Transportation Policy: Evidence from Chicago",
+    "authors": "Milena Almagro, Felipe Barbieri, Juan Camilo Castillo, Nathaniel Hickok, Tobias Salz",
+    "year": 2024,
+    "source": "Working Paper",
+    "field": "Urban",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Race to the Bottom: Competition and Quality in Science",
+    "authors": "Ryan Hill, Carolyn Stein",
+    "year": 2025,
+    "source": "QJE",
+    "field": "IO",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "How Acquisitions Affect Firm Behavior and Performance: Evidence from the Dialysis Industry",
+    "authors": "Paul Eliason, Benjamin Heebsch, Ryan McDevitt, James Robers",
+    "year": 2020,
+    "source": "QJE",
+    "field": "IO",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Long-Run Development Impacts of Agricultural Productivity Gains: Evidence from Irrigation Canals in India",
+    "authors": "Sam Asher, Alison Campion, Douglas Gollin, Paul Novosad",
+    "year": 2024,
+    "source": "Working Paper",
+    "field": "Development",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Impacts of Neighborhoods on Intergenerational Mobility I: Childhood Exposure Effects",
+    "authors": "Raj Chetty, Nathaniel Hendren",
+    "year": 2018,
+    "source": "QJE",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "College Admissions and the Stability of Marriage",
+    "authors": "David Gale, Lloyd Shapley",
+    "year": 1962,
+    "source": "American Mathematical Monthly",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Counterspeculation, Auctions, and Competitive Sealed Tenders",
+    "authors": "William Vickrey",
+    "year": 1961,
+    "source": "Journal of Finance",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Auction Versus Negotiations",
+    "authors": "Jeremy Bulow, Paul Klemperer",
+    "year": 1996,
+    "source": "AER",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The End of Economic Growth? Unintended Consequences of a Declining Population",
+    "authors": "Chad Jones",
+    "year": 2022,
+    "source": "AER",
+    "field": "Growth",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The O-Ring Theory of Economic Development",
+    "authors": "Michael Kremer",
+    "year": 1993,
+    "source": "QJE",
+    "field": "Development",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Population Growth and Technological Change: One Million B.C. to 1990",
+    "authors": "Michael Kremer",
+    "year": 1993,
+    "source": "QJE",
+    "field": "Growth",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "A Simple Model of Herd Behavior",
+    "authors": "Abhijit Banerjee",
+    "year": 1992,
+    "source": "QJE",
+    "field": "Behavioural",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Why Isn\u2019t the Whole World Developed",
+    "authors": "Gregory Clark",
+    "year": 1987,
+    "source": "Journal of Economic History",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Continued Existence of Cows Disproves Central Tenets of Capitalism?",
+    "authors": "Santosh Anagol, Alvin Etang, Dean Karlan",
+    "year": 2013,
+    "source": "JPE",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "How Much Should We Trust Differences-in-Differences Estimates?",
+    "authors": "Marianne Bertrand, Esther Duflo, Sendhil Mullainathan",
+    "year": 2003,
+    "source": "QJE",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Floods",
+    "authors": "Dev Patel",
+    "year": 2024,
+    "source": "Working Paper",
+    "field": "General",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Inappropriate Technology: Evidence from Global Agriculture",
+    "authors": "Jacob Moscona, Karthik Sastry",
+    "year": 2025,
+    "source": "Working Paper",
+    "field": "Development",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Foundations of Demand Estimation",
+    "authors": "Steven Berry, Phil Haile",
+    "year": 2021,
+    "source": "Working Paper",
+    "field": "Macroeconomics",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Incentive Compatibility and the Bargaining Problem",
+    "authors": "Roger Myerson",
+    "year": 1979,
+    "source": "Econometrica",
+    "field": "IO",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Economic Costs of Conflict: A Case Study of the Basque Country",
+    "authors": "Alberto Abadie, Javier Gardeazabal",
+    "year": 2003,
+    "source": "AER",
+    "field": "Political Economy",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Identifying Technology Spillovers and Product Market Rivalry",
+    "authors": "Nicholas Bloom, Mark Schankerman, John Van Reenen",
+    "year": 2013,
+    "source": "",
+    "field": "Trade",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Does Management Matter? Evidence from India",
+    "authors": "Nicholas Bloom, Benn Eifert, Aprajit Mahajan, David McKenzie, John Roberts",
+    "year": 2013,
+    "source": "QJE",
+    "field": "Development",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "What Drives Media Slant? Evidence from U.S. Daily Newspapers",
+    "authors": "Matthew Gentzkow, Jesse Shapiro",
+    "year": 2010,
+    "source": "Econometrica",
+    "field": "Media",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Bayesian Persuasion",
+    "authors": "Emir Kamenica, Matthew Gentzkow",
+    "year": 2011,
+    "source": "AER",
+    "field": "Media",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "What is Newsworthy? Theory and Evidence",
+    "authors": "Luis Armona, Matthew Gentzkow, Emir Kamenica, Jesse Shapiro",
+    "year": 2024,
+    "source": "Working Paper",
+    "field": "Media",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Uniform Pricing in U.S. Retail Chains",
+    "authors": "Stefano Dellavigna, Matthew Gentzkow",
+    "year": 2019,
+    "source": "QJE",
+    "field": "Public Finance",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Bias in Cable News: Persuasion and Polarization",
+    "authors": "Gregory Martin, Ali Yurokoglu",
+    "year": 2017,
+    "source": "",
+    "field": "Media",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "How Dangerous Are Drinking Drivers?",
+    "authors": "Steven Levitt, Jack Porter",
+    "year": 2001,
+    "source": "JPE",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities",
+    "authors": "Michael Kremer, Ted Miguel",
+    "year": 2004,
+    "source": "Econometrica",
+    "field": "Health",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Slack and Economic Development",
+    "authors": "Michael Walker, Nachiket Shah, Ted Miguel, Dennis Egger, Felix Samy Soliman, TIlman Graff",
+    "year": 2024,
+    "source": "Working Paper",
+    "field": "Development",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Do Real-Output and Real-Wage Measures Capture Reality? The History of Lighting Suggests Not",
+    "authors": "William Nordhaus",
+    "year": 1998,
+    "source": "Working Paper",
+    "field": "General",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Estimating Welfare in Insurance Markets Using Variation in Prices",
+    "authors": "Liran Einav, Amy Finkelstein, Mark Cullen",
+    "year": 2010,
+    "source": "QJE",
+    "field": "Public Finance",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry",
+    "authors": "Daron Acemoglu, Joshua Linn",
+    "year": 2004,
+    "source": "QJE",
+    "field": "Health",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Returns to Face-to-Face Interactions: Knowledge Spillovers in Silicon Valley",
+    "authors": "David Atkin, Keith Chen, Anton Popov",
+    "year": 2022,
+    "source": "Working Paper",
+    "field": "Trade",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Creativity Decline and the US Productivity Slowdown",
+    "authors": "Aakash Kalyani",
+    "year": 2025,
+    "source": "Working Paper",
+    "field": "Growth",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Patent Buyouts: A Mechanism for Encouraging Innovation",
+    "authors": "Michael Kremer",
+    "year": 1998,
+    "source": "",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Can Women Have Children and a Career? IV Evidence from IVF Treatments",
+    "authors": "Petter Lundborg, Erik Plug, Astrid Wurtz Rasmussen",
+    "year": 2017,
+    "source": "AER",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Why Do Women Earn Less than Men? Evidence from Bus and Train Operators",
+    "authors": "Valentin Bolotnyy, Natalia Emanuel",
+    "year": 2022,
+    "source": "JPE",
+    "field": "Labour",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "On the Origins of the State: Stationary Bandits and Taxation in Eastern Congo",
+    "authors": "Raul Sanchez de la Sierra",
+    "year": 2020,
+    "source": "JPE",
+    "field": "Development",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Bargaining and International Reference Pricing in the Pharmaceutical Industry",
+    "authors": "Pierre Dubois, Ashvin Gandhi, Shoshana Vasserman",
+    "year": 2022,
+    "source": "Working Paper",
+    "field": "Public Finance",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Field Experiments on the Effects of Reserve Prices in Auctions: More Magic on the Internet",
+    "authors": "David Lucking-Reiley",
+    "year": 2006,
+    "source": "",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Intermediaries in Bargaining: Evidence from Business-to-Business Used-Car Inventory Negotiations",
+    "authors": "Bradley Larsen, Carol Hengheng Lu, Anthony Lee Zhang",
+    "year": 2021,
+    "source": "Working Paper",
+    "field": "IO",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Unequal Gains From Product Innovations: Evidence from the U.S. Retail Sector",
+    "authors": "Xavier Jaravel",
+    "year": 2019,
+    "source": "QJE",
+    "field": "General",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Using Engel\u2019s Law to Estimate CPI Bias",
+    "authors": "Bruce Hamilton",
+    "year": 2001,
+    "source": "AER",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Intellectual Property Rights and Innovation: Evidence from the Human Genome",
+    "authors": "Heidi Williams",
+    "year": 2013,
+    "source": "JPE",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "A Model of Price Adjustment",
+    "authors": "Peter Diamond",
+    "year": 1971,
+    "source": "JET",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Aggregate Demand Management in Search Equilibrium",
+    "authors": "Peter Diamond",
+    "year": 1982,
+    "source": "JPE",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Diversification Bias: Explaining the Discrepancy in Variety Seeking Between Combined and Separated Choices",
+    "authors": "Daniel Read, George Loewenstein",
+    "year": 1995,
+    "source": "",
+    "field": "Behavioural",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Organization Barriers to Technology Adoption: Evidence from Soccer-Ball Producers in Pakistan",
+    "authors": "David Atkin, Azam Chaudhry, Shamyla Chaudry, Amit Khandelwal, Eric Verhoogen",
+    "year": 2017,
+    "source": "QJE",
+    "field": "Trade",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "On the Origins of Gender Roles: Women and the Plough",
+    "authors": "Alberto Alesina, Paola Giuliano, Nathan Nunn",
+    "year": 2013,
+    "source": "QJE",
+    "field": "Political Economy",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "A Positive Theory of Fiscal Deficits and Government Debt",
+    "authors": "Alberto Alesina, Guido Tabellini",
+    "year": 1990,
+    "source": "REStud",
+    "field": "Macroeconomics",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Durability and Monopoly",
+    "authors": "Ronald Coase",
+    "year": 1972,
+    "source": "JLE",
+    "field": "IO",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "HANKSSON",
+    "authors": "Florin Bilbiie, Sigurd Molster Galaasen, Refet Gurkaynak, Mathis Maehlum, Krisztina Molnar",
+    "year": 2025,
+    "source": "Working Paper",
+    "field": "Macroeconomics",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Earnings Instability",
+    "authors": "Peter Ganong, Pascal Noel, Christina Patterson, Joseph Vavra, Alex Weinberg",
+    "year": 2025,
+    "source": "Working Paper",
+    "field": "General",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Understanding the Price Effects of the MillerCoors Joint Venture",
+    "authors": "Nathan Miller, Matthew Weinberg",
+    "year": 2017,
+    "source": "Econometrica",
+    "field": "IO",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Persistence Through Revolutions",
+    "authors": "Alberto Alesina, Marlon Seror, David Yang, Yang You, Weihong Zeng",
+    "year": 2020,
+    "source": "Working Paper",
+    "field": "Political Economy",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Elusive Costs of Inflation: Price Dispersion During the US Great Inflation",
+    "authors": "Emi Nakamura, Jon Steinsson, Patrick Sun, Daniel Villar",
+    "year": 2018,
+    "source": "QJE",
+    "field": "Macroeconomics",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Life Cycle of Plants in India and Mexico",
+    "authors": "Chang-Tai Hsieh, Pete Klenow",
+    "year": 2014,
+    "source": "QJE",
+    "field": "Development",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Quantifying Quality Growth",
+    "authors": "Mark Bils, Pete Klenow",
+    "year": 2001,
+    "source": "AER",
+    "field": "Growth",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Simple Economics of Optimal Auctions",
+    "authors": "Jeremy Bulow, John Roberts",
+    "year": 1989,
+    "source": "JPE",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Measuring the Incentive to Collude: The Vitamin Cartels, 1990-99",
+    "authors": "Mitsuru Igami, Takuo Sugaya",
+    "year": 2021,
+    "source": "REStud",
+    "field": "IO",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Putting Ricardo to Work",
+    "authors": "Jonathan Eaton, Samuel Kortum",
+    "year": 2012,
+    "source": "Journal of Economic Perspectives",
+    "field": "Trade",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Bid, Ask, and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders",
+    "authors": "Lawrence Glosten, Paul Milgrom",
+    "year": 1985,
+    "source": "Journal of Financial Economics",
+    "field": "Finance",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Information, Trade and Common Knowledge",
+    "authors": "Paul Milgrom, Nancy Stokey",
+    "year": 1980,
+    "source": "JET",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "What Determines Productivity? Lessons from the Dramatic Recovery of the US and Canadian Iron Ore Industries Following Their Early 1980s Crisis",
+    "authors": "James Schmitz Jr.",
+    "year": 2005,
+    "source": "JPE",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Two Views of the British Industrial Revolution",
+    "authors": "Peter Temin",
+    "year": 1997,
+    "source": "Journal of Economic History",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Inequality and Measured Growth",
+    "authors": "Ezra Oberfield",
+    "year": 2023,
+    "source": "Working Paper",
+    "field": "Growth",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Who Benefits from Surge Pricing?",
+    "authors": "Juan Camilo Castillo",
+    "year": 2025,
+    "source": "Econometrica",
+    "field": "Public Finance",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Algorithmic Pricing, Price Wars and Tacit Collusion: Evidence from E-Commerce",
+    "authors": "Leon Musolff",
+    "year": 2025,
+    "source": "Working Paper",
+    "field": "Public Finance",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Asymmetric Information Sharing in Oligopoly: A Natural Experiment in Retail Gasoline",
+    "authors": "David Byrne, Nicolas de Roos, Matthew Lewis, Leslie Marx, Xiaosong Wu",
+    "year": 2025,
+    "source": "JPE",
+    "field": "IO",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Corruption, Norms, and Legal Enforcement: Evidence from Diplomatic Parking Tickets",
+    "authors": "Raymond Fisman, Ted Miguel",
+    "year": 2007,
+    "source": "JPE",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "How Are SNAP Benefits Spent? Evidence from a Retail Panel",
+    "authors": "Justine Hastings, Jesse Shapiro",
+    "year": 2017,
+    "source": "AER",
+    "field": "Public Finance",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Is There a Daily Discount Rate? Evidence from the Food Stamp Nutrition Cycle",
+    "authors": "Jesse Shapiro",
+    "year": 2005,
+    "source": "JPE",
+    "field": "Public Finance",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Cross-Sectional Implications of the Social Discount Rate",
+    "authors": "Maya Eden",
+    "year": 2023,
+    "source": "Econometrica",
+    "field": "Macroeconomics",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Zoning and the Dynamics of Urban Redevelopment",
+    "authors": "Vincent Rollet",
+    "year": 2025,
+    "source": "Working Paper",
+    "field": "Urban",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Business of the Culture War",
+    "authors": "Shakked Noy, Aakaash Rao",
+    "year": 2025,
+    "source": "Working Paper",
+    "field": "Political Economy",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Understanding the Role of Debt in the Financial System",
+    "authors": "Bengt Holmstr\u00f6m",
+    "year": 2015,
+    "source": "BIS",
+    "field": "Macroeconomics",
+    "type": "modern",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "On the Mechanics of Economic Development",
+    "authors": "Robert Lucas",
+    "year": 1988,
+    "source": "JME",
+    "field": "Development",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "The Economic Organization of a P.O.W Camp",
+    "authors": "Richard Radford",
+    "year": 1945,
+    "source": "Economica",
+    "field": "General",
+    "type": "classic",
+    "citation_proxy": 0,
+    "url": ""
+  },
+  {
+    "title": "Public R&D Meets Economic Development: Embrapa and Brazil\u2019s Agricultural Revolution",
+    "authors": "Ariel Akerman, Jacob Moscona, Heitor Pellegrina, Karthik Sastry",
+    "year": 2025,
+    "source": "Working Paper",
+    "field": "Development",
+    "type": "working",
+    "citation_proxy": 0,
+    "url": ""
+  }
+]

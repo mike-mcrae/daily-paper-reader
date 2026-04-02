@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Daily Paper Reader{% endblock %}</title>
+    <link rel="stylesheet" href="{{ base }}/static/style.css">
+</head>
+<body>
+    <nav>
+        <div class="nav-inner">
+            <a href="{{ base }}/" class="brand">Paper Reader</a>
+            <a href="{{ base }}/" class="{% if active == 'today' %}active{% endif %}">Today</a>
+            <a href="{{ base }}/explore" class="{% if active == 'explore' %}active{% endif %}">Explore</a>
+            <a href="{{ base }}/library" class="{% if active == 'library' %}active{% endif %}">Library</a>
+            <a href="{{ base }}/stats" class="{% if active == 'stats' %}active{% endif %}">Stats</a>
+        </div>
+    </nav>
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+    {% block scripts %}{% endblock %}
+</body>
+</html>

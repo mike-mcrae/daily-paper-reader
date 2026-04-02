@@ -1,0 +1,123 @@
+{% extends "base.html" %}
+{% set active = "notes" %}
+{% block title %}Notes — {{ paper.title if paper else 'Paper' }}{% endblock %}
+
+{% block content %}
+<div style="margin-top: 20px;">
+    {% if paper %}
+    <div class="card" style="margin-bottom: 16px;">
+        <h2>{{ paper.title }}</h2>
+        <div class="meta">
+            {{ paper.authors }} ({{ paper.year or '?' }})
+            &mdash; {{ paper.source or '' }}
+            {% if paper.field %} &bull; {{ paper.field }}{% endif %}
+        </div>
+        {% if paper.url %}
+        <a href="{{ paper.url }}" target="_blank" class="btn btn-outline" style="margin-top: 8px;">Read Paper &rarr;</a>
+        {% endif %}
+
+        <form method="post" action="{{ base }}/status/{{ paper.id }}" style="margin-top: 16px; display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
+            <input type="hidden" name="next_path" value="{{ base }}/notes/{{ paper.id }}">
+            <label for="paper-status" style="margin-bottom: 0;">Status</label>
+            <select id="paper-status" name="status" onchange="this.form.submit()" style="max-width: 220px;">
+                <option value="saved" {% if status == 'saved' %}selected{% endif %}>Saved</option>
+                <option value="started" {% if status == 'started' %}selected{% endif %}>Started</option>
+                <option value="read" {% if status == 'read' %}selected{% endif %}>Read</option>
+                <option value="fully_noted" {% if status == 'fully_noted' %}selected{% endif %}>Fully Noted</option>
+                <option value="skipped" {% if status == 'skipped' %}selected{% endif %}>Skipped</option>
+            </select>
+        </form>
+    </div>
+
+    <form id="notes-form" method="post" action="{{ base }}/notes/{{ paper.id }}">
+        <div class="card">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                <h2 style="font-size: 1.2rem;">Notes</h2>
+                <span>
+                    <span class="save-status" id="save-status"></span>
+                    <button type="submit" class="btn btn-primary">Save</button>
+                </span>
+            </div>
+
+            <div class="form-group">
+                <label>Summary</label>
+                <textarea name="summary" rows="3">{{ notes.summary if notes else '' }}</textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Key Findings</label>
+                <textarea name="key_findings" rows="3">{{ notes.key_findings if notes else '' }}</textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Contribution</label>
+                <textarea name="contribution" rows="3">{{ notes.contribution if notes else '' }}</textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Methodology</label>
+                <textarea name="methodology" rows="3">{{ notes.methodology if notes else '' }}</textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Key Assumptions (Stated)</label>
+                <textarea name="assumptions_stated" rows="3">{{ notes.assumptions_stated if notes else '' }}</textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Key Assumptions (Unstated)</label>
+                <textarea name="assumptions_unstated" rows="3">{{ notes.assumptions_unstated if notes else '' }}</textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Improvements</label>
+                <textarea name="improvements" rows="3">{{ notes.improvements if notes else '' }}</textarea>
+            </div>
+
+            <div class="form-group">
+                <label>Quotes / Excerpts</label>
+                <textarea name="quotes" rows="3">{{ notes.quotes if notes else '' }}</textarea>
+            </div>
+        </div>
+    </form>
+    {% else %}
+    <div class="card">
+        <p>Paper not found.</p>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+(function() {
+    let timer = null;
+    const form = document.getElementById('notes-form');
+    const status = document.getElementById('save-status');
+    if (!form) return;
+
+    form.querySelectorAll('textarea').forEach(el => {
+        el.addEventListener('input', () => {
+            status.textContent = 'Unsaved changes...';
+            status.className = 'save-status';
+            clearTimeout(timer);
+            timer = setTimeout(autoSave, 2000);
+        });
+    });
+
+    function autoSave() {
+        const data = new FormData(form);
+        fetch('{{ base }}/api/notes/{{ paper.id }}', { method: 'POST', body: data })
+            .then(r => r.json())
+            .then(() => {
+                status.textContent = 'Saved';
+                status.className = 'save-status saved';
+            })
+            .catch(() => {
+                status.textContent = 'Save failed';
+                status.className = 'save-status';
+            });
+    }
+})();
+</script>
+{% endblock %}

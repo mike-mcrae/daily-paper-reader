@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% set active = "today" %}
+{% block title %}Today's Paper{% endblock %}
+
+{% block content %}
+<div style="margin-top: 20px;">
+    <p style="color: var(--muted); margin-bottom: 16px;">{{ today }}</p>
+
+    {% if stats and stats.current_streak %}
+    <div class="streak-bar">
+        <div class="streak-item">
+            <div class="number">{{ stats.current_streak }}</div>
+            <div class="label">Current Streak</div>
+        </div>
+        <div class="streak-item">
+            <div class="number">{{ stats.longest_streak }}</div>
+            <div class="label">Best Streak</div>
+        </div>
+        <div class="streak-item">
+            <div class="number">{{ stats.total_read + stats.total_fully_noted }}</div>
+            <div class="label">Papers Read</div>
+        </div>
+    </div>
+    {% endif %}
+
+    {% if paper %}
+    <div class="card">
+        <h2>{{ paper.title }}</h2>
+        <div class="meta">
+            {{ paper.authors }} ({{ paper.year }})
+            &mdash; <em>{{ paper.source }}</em>
+            {% if paper.field %} &bull; {{ paper.field }}{% endif %}
+        </div>
+
+        {% if paper.url %}
+        <p><a href="{{ paper.url }}" target="_blank" class="btn btn-outline" style="margin-top: 8px;">Read Paper &rarr;</a></p>
+        {% endif %}
+
+        {% if paper.summary_text %}
+        <div class="summary-box">
+            {{ paper.summary_text }}
+        </div>
+        {% endif %}
+
+        <div class="actions">
+            <form method="post" action="{{ base }}/status/{{ paper.id }}" style="display:flex; gap:8px; align-items:center;">
+                <select name="status" onchange="this.form.submit()">
+                    <option value="" disabled {% if not status %}selected{% endif %}>Set status...</option>
+                    <option value="saved" {% if status == 'saved' %}selected{% endif %}>Saved</option>
+                    <option value="started" {% if status == 'started' %}selected{% endif %}>Started</option>
+                    <option value="read" {% if status == 'read' %}selected{% endif %}>Read</option>
+                    <option value="fully_noted" {% if status == 'fully_noted' %}selected{% endif %}>Fully Noted</option>
+                    <option value="skipped" {% if status == 'skipped' %}selected{% endif %}>Skipped</option>
+                </select>
+            </form>
+
+            <a href="{{ base }}/notes/{{ paper.id }}" class="btn btn-primary">Add Notes</a>
+
+            <form method="post" action="{{ base }}/replace">
+                <button type="submit" class="btn btn-secondary">Replace Paper</button>
+            </form>
+        </div>
+    </div>
+    {% else %}
+    <div class="card">
+        <h2>No papers available</h2>
+        <p>Seed the database to get started.</p>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

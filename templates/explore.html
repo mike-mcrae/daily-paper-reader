@@ -1,0 +1,138 @@
+{% extends "base.html" %}
+{% set active = "explore" %}
+{% block title %}Explore Papers{% endblock %}
+
+{% block content %}
+<div style="margin-top: 20px;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+        <h1 style="font-size: 1.4rem; color: var(--primary);">Explore Papers</h1>
+        <button class="btn btn-primary" onclick="document.getElementById('add-modal').classList.add('show')">+ Add Paper</button>
+    </div>
+
+    <form method="get" action="{{ base }}/explore">
+        <div class="filters">
+            <div class="form-group" style="flex: 2;">
+                <input type="text" name="q" placeholder="Search titles & authors..." value="{{ q }}">
+            </div>
+            <div class="form-group">
+                <select name="field">
+                    <option value="">All Fields</option>
+                    {% for f in fields %}
+                    <option value="{{ f }}" {% if field == f %}selected{% endif %}>{{ f }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group">
+                <select name="paper_type">
+                    <option value="">All Types</option>
+                    <option value="classic" {% if paper_type == 'classic' %}selected{% endif %}>Classic</option>
+                    <option value="modern" {% if paper_type == 'modern' %}selected{% endif %}>Modern</option>
+                    <option value="working" {% if paper_type == 'working' %}selected{% endif %}>Working</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <select name="source">
+                    <option value="">All Sources</option>
+                    {% for s in sources %}
+                    <option value="{{ s }}" {% if source == s %}selected{% endif %}>{{ s }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group">
+                <select name="status">
+                    <option value="">Any Status</option>
+                    <option value="saved" {% if status == 'saved' %}selected{% endif %}>Saved</option>
+                    <option value="started" {% if status == 'started' %}selected{% endif %}>Started</option>
+                    <option value="read" {% if status == 'read' %}selected{% endif %}>Read</option>
+                    <option value="fully_noted" {% if status == 'fully_noted' %}selected{% endif %}>Fully Noted</option>
+                    <option value="skipped" {% if status == 'skipped' %}selected{% endif %}>Skipped</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Filter</button>
+        </div>
+    </form>
+
+    <p style="color: var(--muted); font-size: 0.85rem; margin-bottom: 12px;">{{ total }} papers found</p>
+
+    <div class="card">
+        {% for paper in papers %}
+        <div class="paper-row">
+            <div class="paper-info">
+                <h3><a href="{{ base }}/notes/{{ paper.id }}">{{ paper.title }}</a></h3>
+                <div class="meta">
+                    {{ paper.authors }} ({{ paper.year or '?' }})
+                    &mdash; {{ paper.source or '' }}
+                    {% if paper.field %} &bull; {{ paper.field }}{% endif %}
+                </div>
+            </div>
+            <div class="paper-badges">
+                <span class="badge">{{ paper.type or '' }}</span>
+                {% if paper.user_status %}
+                <span class="badge badge-{{ paper.user_status }}">{{ paper.user_status }}</span>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+
+        {% if not papers %}
+        <p style="color: var(--muted); padding: 20px 0; text-align: center;">No papers match your filters.</p>
+        {% endif %}
+    </div>
+
+    {% if total_pages > 1 %}
+    <div class="pagination">
+        {% if page > 1 %}
+        <a href="{{ base }}/explore?q={{ q }}&field={{ field }}&paper_type={{ paper_type }}&source={{ source }}&status={{ status }}&page={{ page - 1 }}">&laquo; Prev</a>
+        {% endif %}
+        {% for p in range(1, total_pages + 1) %}
+            {% if p <= 3 or p > total_pages - 3 or (p >= page - 1 and p <= page + 1) %}
+            <a href="{{ base }}/explore?q={{ q }}&field={{ field }}&paper_type={{ paper_type }}&source={{ source }}&status={{ status }}&page={{ p }}"
+               class="{% if p == page %}active{% endif %}">{{ p }}</a>
+            {% endif %}
+        {% endfor %}
+        {% if page < total_pages %}
+        <a href="{{ base }}/explore?q={{ q }}&field={{ field }}&paper_type={{ paper_type }}&source={{ source }}&status={{ status }}&page={{ page + 1 }}">Next &raquo;</a>
+        {% endif %}
+    </div>
+    {% endif %}
+</div>
+
+<!-- Add Paper Modal -->
+<div class="modal-bg" id="add-modal" onclick="if(event.target===this)this.classList.remove('show')">
+    <div class="modal">
+        <h2 style="margin-bottom: 16px; color: var(--primary);">Add Paper</h2>
+        <form method="post" action="{{ base }}/add-paper">
+            <div class="form-group">
+                <label>Title *</label>
+                <input type="text" name="title" required>
+            </div>
+            <div class="form-group">
+                <label>Authors *</label>
+                <input type="text" name="authors" required>
+            </div>
+            <div style="display: flex; gap: 10px;">
+                <div class="form-group" style="flex:1;">
+                    <label>Year</label>
+                    <input type="number" name="year">
+                </div>
+                <div class="form-group" style="flex:1;">
+                    <label>Field</label>
+                    <input type="text" name="field">
+                </div>
+                <div class="form-group" style="flex:1;">
+                    <label>Source</label>
+                    <input type="text" name="source">
+                </div>
+            </div>
+            <div class="form-group">
+                <label>URL</label>
+                <input type="url" name="url">
+            </div>
+            <div class="actions">
+                <button type="submit" class="btn btn-primary">Add Paper</button>
+                <button type="button" class="btn btn-secondary" onclick="document.getElementById('add-modal').classList.remove('show')">Cancel</button>
+            </div>
+        </form>
+    </div>
+</div>
+{% endblock %}

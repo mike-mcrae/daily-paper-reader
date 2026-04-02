@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% set active = "library" %}
+{% block title %}Library{% endblock %}
+
+{% block content %}
+<div style="margin-top: 20px;">
+    <h1 style="font-size: 1.4rem; color: var(--primary); margin-bottom: 16px;">My Library</h1>
+
+    <div class="tabs">
+        <a href="{{ base }}/library?tab=saved" class="{% if tab == 'saved' %}active{% endif %}">
+            Backlog <span class="count">{{ counts.saved }}</span>
+        </a>
+        <a href="{{ base }}/library?tab=started" class="{% if tab == 'started' %}active{% endif %}">
+            In Progress <span class="count">{{ counts.started }}</span>
+        </a>
+        <a href="{{ base }}/library?tab=completed" class="{% if tab == 'completed' %}active{% endif %}">
+            Completed <span class="count">{{ counts.completed }}</span>
+        </a>
+        <a href="{{ base }}/library?tab=skipped" class="{% if tab == 'skipped' %}active{% endif %}">
+            Dropped <span class="count">{{ counts.skipped }}</span>
+        </a>
+    </div>
+
+    <div class="card">
+        {% for paper in papers %}
+        <div class="paper-row">
+            <div class="paper-info">
+                <h3><a href="{{ base }}/notes/{{ paper.id }}">{{ paper.title }}</a></h3>
+                <div class="meta">
+                    {{ paper.authors }} ({{ paper.year or '?' }})
+                    &mdash; {{ paper.source or '' }}
+                    {% if paper.field %} &bull; {{ paper.field }}{% endif %}
+                </div>
+            </div>
+            <div class="paper-badges">
+                <span class="badge badge-{{ paper.user_status }}">{{ paper.user_status }}</span>
+            </div>
+        </div>
+        {% endfor %}
+
+        {% if not papers %}
+        <p style="color: var(--muted); padding: 20px 0; text-align: center;">
+            {% if tab == 'saved' %}No papers in your backlog yet. Save some from Explore or Today.{% endif %}
+            {% if tab == 'started' %}No papers in progress.{% endif %}
+            {% if tab == 'completed' %}No completed papers yet. Start reading!{% endif %}
+            {% if tab == 'skipped' %}No dropped papers.{% endif %}
+        </p>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

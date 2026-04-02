@@ -1,0 +1,199 @@
+Raj Chetty, “Moral Hazard vs Liquidity and Optimal Unemployment Insurance” (2008), JPE
+
+Pete Klenow, Andres-Rodriguez-Clare, “The Neoclassical Revival in Growth Economics: Has It Gone Too Far?” (1996)
+
+Benjamin Vatter, “Quality Disclosure and Regulation: Scoring Design in Medicare Advantage” (2025), ECTA
+
+Raj Chetty, “A New Method of Estimating Risk Aversion” (2006) AER
+
+Matthew Backus, Christopher Conlon, Michael Sinkinson, “Common Ownership and Competition in the Ready-To-Eat Cereal Industry” (2021), ECTA (forthcoming)
+
+Tishara Garg, “Can Industrial Policy Overcome Coordination Failures”, (2025), WP
+
+Steven Olley, Ariel Pakes, “The Dynamics of Productivity in the Telecommunications Equipment Industry” (1996) ECTA
+
+Aviv Nevo, “Measuring Market Power in the Ready-To-Eat Cereal Industry” (2001) ECTA
+
+Timothy Bresnahan, Peter Reiss, “Entry and Competition in Concentrated Markets” (1991) JPE (see also: slides)
+
+Jens Ludwig, Sendhil Mullainathan, “Machine Learning as a Tool for Hypothesis Generation” (2024) QJE
+
+Gabriel Ahlfeldt, Stephen Redding, Daniel Sturm, Nikolaus Wolf, “The Economics of Density: Evidence from the Berlin Wall” (2015) ECTA
+
+Dave Donaldson, “Railroads of the Raj: Estimating the Impact of Transportation Infrastructure” (2018) AER (see also: commentary)
+
+Gabriel Kreindler, “Peak-Hour Road Congestion Pricing: Experimental Evidence and Equilibrium Implications” (2023) ECTA
+
+Lindsey Currier, Edward Glaeser, Gabriel Kreindler, “Infrastructure Inequality: Who Bears the Cost of Road Roughness” (2024) WP
+
+Nikita Melnikov, Carlos Schmidt-Padilla, Maria Micaela Sviatschi, “Gangs, Labor Mobility, and Development” (2025)
+
+Milena Almagro, Felipe Barbieri, Juan Camilo Castillo, Nathaniel Hickok, Tobias Salz, “Optimal Urban Transportation Policy: Evidence from Chicago” (2024) WP
+
+Ryan Hill, Carolyn Stein, “Race to the Bottom: Competition and Quality in Science” (2025) QJE
+
+Paul Eliason, Benjamin Heebsch, Ryan McDevitt, James Robers, “How Acquisitions Affect Firm Behavior and Performance: Evidence from the Dialysis Industry” (2020) QJE
+
+Sam Asher, Alison Campion, Douglas Gollin, Paul Novosad, “The Long-Run Development Impacts of Agricultural Productivity Gains: Evidence from Irrigation Canals in India” (2024) WP
+
+Raj Chetty, Nathaniel Hendren, “The Impacts of Neighborhoods on Intergenerational Mobility I: Childhood Exposure Effects” (2018) QJE
+
+David Gale, Lloyd Shapley, “College Admissions and the Stability of Marriage” (1962) AMM
+
+William Vickrey, “Counterspeculation, Auctions, and Competitive Sealed Tenders” (1961) JoF
+
+Jeremy Bulow, Paul Klemperer, “Auction Versus Negotiations” (1996) AER
+
+Chad Jones, “The End of Economic Growth? Unintended Consequences of a Declining Population” (2022) AER
+
+Michael Kremer, “The O-Ring Theory of Economic Development” (1993) QJE
+
+Michael Kremer, “Population Growth and Technological Change: One Million B.C. to 1990” (1993) QJE
+
+Abhijit Banerjee, “A Simple Model of Herd Behavior” (1992) QJE
+
+Gregory Clark, “Why Isn’t the Whole World Developed” (1987) JEH
+
+Santosh Anagol, Alvin Etang, Dean Karlan, “Continued Existence of Cows Disproves Central Tenets of Capitalism?” (2013) JPE
+
+Marianne Bertrand, Esther Duflo, Sendhil Mullainathan, “How Much Should We Trust Differences-in-Differences Estimates?” (2003) QJE
+
+Dev Patel, “Floods” (2024) WP
+
+Jacob Moscona, Karthik Sastry, “Inappropriate Technology: Evidence from Global Agriculture” (2025) WP
+
+Steven Berry, Phil Haile, “Foundations of Demand Estimation” (2021) WP
+
+Roger Myerson, “Incentive Compatibility and the Bargaining Problem” (1979) ECTA
+
+Alberto Abadie, Javier Gardeazabal, “The Economic Costs of Conflict: A Case Study of the Basque Country” (2003) AER
+
+Nicholas Bloom, Chad Jones, John Van Reenen, Michael Webb, “Are Ideas Getting Harder to Find?” (2020) AER
+
+Michael Webb, “The Impact of Artificial Intelligence on the Labor Market” (2020) WP
+
+Nicholas Bloom, Mark Schankerman, John Van Reenen, “Identifying Technology Spillovers and Product Market Rivalry” (2013) (see also: appendix)
+
+Nicholas Bloom, Benn Eifert, Aprajit Mahajan, David McKenzie, John Roberts, “Does Management Matter? Evidence from India” (2013) QJE
+
+Matthew Gentzkow, Jesse Shapiro, “What Drives Media Slant? Evidence from U.S. Daily Newspapers” (2010) ECTA
+
+George Akerlof, “The Market for Lemons: Quality Uncertainty and the Market Mechanism” (1970) QJE
+
+Emir Kamenica, Matthew Gentzkow, “Bayesian Persuasion” (2011) AER
+
+Luis Armona, Matthew Gentzkow, Emir Kamenica, Jesse Shapiro, “What is Newsworthy? Theory and Evidence” (2024) WP
+
+Stefano Dellavigna, Matthew Gentzkow, “Uniform Pricing in U.S. Retail Chains” (2019) QJE
+
+Gregory Martin, Ali Yurokoglu, “Bias in Cable News: Persuasion and Polarization” (2017)
+
+Daron Acemoglu, Simon Johnson, James Robinson, “The Colonial Origins of Comparative Development: An Empirical Investigation” (2001) AER
+
+Steven Levitt, Jack Porter, “How Dangerous Are Drinking Drivers?” (2001) JPE
+
+Michael Kremer, Ted Miguel, “Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities” (2004) ECTA
+
+Michael Walker, Nachiket Shah, Ted Miguel, Dennis Egger, Felix Samy Soliman, TIlman Graff, “Slack and Economic Development” (2024) WP
+
+William Nordhaus, “Do Real-Output and Real-Wage Measures Capture Reality? The History of Lighting Suggests Not” (1998) WP
+
+Liran Einav, Amy Finkelstein, Mark Cullen, “Estimating Welfare in Insurance Markets Using Variation in Prices” (2010) QJE
+
+Daron Acemoglu, Joshua Linn, “Market Size in Innovation: Theory and Evidence from the Pharmaceutical Industry” (2004) QJE
+
+David Atkin, Keith Chen, Anton Popov, “The Returns to Face-to-Face Interactions: Knowledge Spillovers in Silicon Valley” (2022) WP
+
+Aakash Kalyani, “The Creativity Decline and the US Productivity Slowdown” (2025) WP
+
+Michael Kremer, “Patent Buyouts: A Mechanism for Encouraging Innovation” (1998)
+
+Petter Lundborg, Erik Plug, Astrid Wurtz Rasmussen, “Can Women Have Children and a Career? IV Evidence from IVF Treatments” (2017) AER
+
+Valentin Bolotnyy, Natalia Emanuel, “Why Do Women Earn Less than Men? Evidence from Bus and Train Operators” (2022) JPE
+
+Raul Sanchez de la Sierra, “On the Origins of the State: Stationary Bandits and Taxation in Eastern Congo” (2020) JPE
+
+Pierre Dubois, Ashvin Gandhi, Shoshana Vasserman, “Bargaining and International Reference Pricing in the Pharmaceutical Industry” (2022) WP
+
+David Lucking-Reiley, “Field Experiments on the Effects of Reserve Prices in Auctions: More Magic on the Internet” (2006)
+
+Bradley Larsen, Carol Hengheng Lu, Anthony Lee Zhang, “Intermediaries in Bargaining: Evidence from Business-to-Business Used-Car Inventory Negotiations” (2021) WP
+
+Xavier Jaravel, “The Unequal Gains From Product Innovations: Evidence from the U.S. Retail Sector” (2019) QJE
+
+Bruce Hamilton, “Using Engel’s Law to Estimate CPI Bias” (2001) AER
+
+Heidi Williams, “Intellectual Property Rights and Innovation: Evidence from the Human Genome” (2013) JPE
+
+Peter Diamond, “A Model of Price Adjustment” (1971) JET
+
+Peter Diamond, “Aggregate Demand Management in Search Equilibrium” (1982) JPE
+
+Daniel Read, George Loewenstein, “Diversification Bias: Explaining the Discrepancy in Variety Seeking Between Combined and Separated Choices” (1995)
+
+David Atkin, Azam Chaudhry, Shamyla Chaudry, Amit Khandelwal, Eric Verhoogen, “Organization Barriers to Technology Adoption: Evidence from Soccer-Ball Producers in Pakistan” (2017) QJE
+
+Alberto Alesina, Paola Giuliano, Nathan Nunn, “On the Origins of Gender Roles: Women and the Plough” (2013) QJE
+
+Alberto Alesina, Guido Tabellini, “A Positive Theory of Fiscal Deficits and Government Debt” (1990) REStud
+
+Ronald Coase, “Durability and Monopoly” (1972) JLE
+
+Florin Bilbiie, Sigurd Molster Galaasen, Refet Gurkaynak, Mathis Maehlum, Krisztina Molnar, “HANKSSON” (2025) WP
+
+Peter Ganong, Pascal Noel, Christina Patterson, Joseph Vavra, Alex Weinberg, “Earnings Instability” (2025) WP
+
+Nathan Miller, Matthew Weinberg, “Understanding the Price Effects of the MillerCoors Joint Venture” (2017) ECTA
+
+Alberto Alesina, Marlon Seror, David Yang, Yang You, Weihong Zeng, “Persistence Through Revolutions” (2020) WP
+
+Emi Nakamura, Jon Steinsson, Patrick Sun, Daniel Villar, “The Elusive Costs of Inflation: Price Dispersion During the US Great Inflation” (2018) QJE
+
+Chang-Tai Hsieh, Pete Klenow, “The Life Cycle of Plants in India and Mexico” (2014) QJE
+
+Mark Bils, Pete Klenow, “Quantifying Quality Growth” (2001) AER
+
+Jeremy Bulow, John Roberts, “The Simple Economics of Optimal Auctions” (1989) JPE
+
+Mitsuru Igami, Takuo Sugaya, “Measuring the Incentive to Collude: The Vitamin Cartels, 1990-99” (2021) REStud
+
+Jonathan Eaton, Samuel Kortum, “Putting Ricardo to Work” (2012) JEP
+
+Lawrence Glosten, Paul Milgrom, “Bid, Ask, and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders” (1985) JFE
+
+Paul Milgrom, Nancy Stokey, “Information, Trade and Common Knowledge” (1980) JET
+
+James Schmitz Jr., “What Determines Productivity? Lessons from the Dramatic Recovery of the US and Canadian Iron Ore Industries Following Their Early 1980s Crisis” (2005) JPE
+
+Peter Temin, “Two Views of the British Industrial Revolution” (1997) JEH (see also: commentary)
+
+Ezra Oberfield, “Inequality and Measured Growth” (2023) WP
+
+Juan Camilo Castillo, “Who Benefits from Surge Pricing?” (2025) ECTA
+
+Leon Musolff, “Algorithmic Pricing, Price Wars and Tacit Collusion: Evidence from E-Commerce” (2025) WP
+
+David Byrne, Nicolas de Roos, Matthew Lewis, Leslie Marx, Xiaosong Wu, “Asymmetric Information Sharing in Oligopoly: A Natural Experiment in Retail Gasoline” (2025) JPE
+
+Raymond Fisman, Ted Miguel, “Corruption, Norms, and Legal Enforcement: Evidence from Diplomatic Parking Tickets” (2007) JPE
+
+Justine Hastings, Jesse Shapiro, “How Are SNAP Benefits Spent? Evidence from a Retail Panel” (2017) AER
+
+Jesse Shapiro, “Is There a Daily Discount Rate? Evidence from the Food Stamp Nutrition Cycle” (2005) JPE
+
+Finn Kyland, Ed Prescott, “Rules rather than Discretion: The Inconsistency of Optimal Plans” (1977) JPE
+
+Maya Eden, “The Cross-Sectional Implications of the Social Discount Rate” (2023) ECTA
+
+Vincent Rollet, “Zoning and the Dynamics of Urban Redevelopment” (2025) WP
+
+Shakked Noy, Aakaash Rao, “The Business of the Culture War” (2025) WP
+
+Bengt Holmström, “Understanding the Role of Debt in the Financial System” (2015) BIS
+
+Robert Lucas, “On the Mechanics of Economic Development” (1988) JME
+
+Richard Radford, “The Economic Organization of a P.O.W Camp” (1945) Economica
+
+Ariel Akerman, Jacob Moscona, Heitor Pellegrina, Karthik Sastry, “Public R&D Meets Economic Development: Embrapa and Brazil’s Agricultural Revolution” (2025) WP
