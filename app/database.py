@@ -2,12 +2,21 @@ import sqlite3
 import os
 from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent.parent
 DATABASE_PATH = os.getenv("DATABASE_PATH", "data/papers.db")
 
 
+def resolve_database_path() -> Path:
+    db_path = Path(DATABASE_PATH)
+    if db_path.is_absolute():
+        return db_path
+    return BASE_DIR / db_path
+
+
 def get_db():
-    Path(DATABASE_PATH).parent.mkdir(parents=True, exist_ok=True)
-    conn = sqlite3.connect(DATABASE_PATH)
+    db_path = resolve_database_path()
+    db_path.parent.mkdir(parents=True, exist_ok=True)
+    conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
     conn.execute("PRAGMA foreign_keys = ON")
     return conn
