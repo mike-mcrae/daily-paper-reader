@@ -7,6 +7,9 @@
     <h1 style="font-size: 1.4rem; color: var(--primary); margin-bottom: 16px;">My Library</h1>
 
     <div class="tabs">
+        <a href="{{ base }}/library?tab=all" class="{% if tab == 'all' %}active{% endif %}">
+            All <span class="count">{{ counts.all }}</span>
+        </a>
         <a href="{{ base }}/library?tab=saved" class="{% if tab == 'saved' %}active{% endif %}">
             Backlog <span class="count">{{ counts.saved }}</span>
         </a>
@@ -40,6 +43,7 @@
 
         {% if not papers %}
         <p style="color: var(--muted); padding: 20px 0; text-align: center;">
+            {% if tab == 'all' %}No papers in your library yet. Add one or save notes to get started.{% endif %}
             {% if tab == 'saved' %}No papers in your backlog yet. Save some from Explore or Today.{% endif %}
             {% if tab == 'started' %}No papers in progress.{% endif %}
             {% if tab == 'completed' %}No completed papers yet. Start reading!{% endif %}

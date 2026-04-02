@@ -183,9 +183,10 @@ def explore_page(
 # ── Library Page ────────────────────────────────────────────
 
 @app.get("/library", response_class=HTMLResponse)
-def library_page(request: Request, tab: str = "saved"):
+def library_page(request: Request, tab: str = "all"):
     db = get_db()
     status_map = {
+        "all": ("saved", "started", "read", "fully_noted", "skipped"),
         "saved": ("saved",),
         "started": ("started",),
         "completed": ("read", "fully_noted"),
